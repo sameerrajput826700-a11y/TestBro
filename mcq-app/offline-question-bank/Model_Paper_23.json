@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q001",
+    "question": "Plasmids are ideal vector for gene cloning as",
+    "options": [
+      "They are self-replicating within the bacterial cell",
+      "They can replicate freely outside the bacterial cell",
+      "They can be multiplied in the laboratory using enzymes",
+      "They can be multiplied by culturing"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q002",
+    "question": "Separation of the components of a mixture by TLC is based on",
+    "options": [
+      "Partition",
+      "Adsorption",
+      "Depending on the nature of stationary and mobile phase",
+      "Predominantly by adoption"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q003",
+    "question": "Ruff degradation is used for",
+    "options": [
+      "Reducing carbonyl group",
+      "Oxidizing carbonyl group",
+      "For increasing carbon number during synthesis",
+      "For decreasing carbon number during synthesis"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q004",
+    "question": "Absorption of drug from GIT through carrier mediated transport follows",
+    "options": [
+      "Zero-order kinetics",
+      "First order kinetics",
+      "Mixed order kinetics",
+      "Second order kinetics"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q005",
+    "question": "An important reaction for the synthesis of amino acid from carbohydrate intermediate is transamination, which requires the co-factor",
+    "options": [
+      "Thiamine",
+      "Riboflavin",
+      "Niacin",
+      "Pyridoxal phosphate"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q006",
+    "question": "Which of the following is classified as 'steroid'",
+    "options": [
+      "Phospholipid",
+      "Glycerol",
+      "Wax",
+      "Cholesterol"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q007",
+    "question": "Dihydrocarbene is the intermediate in which reaction",
+    "options": [
+      "Kolbe",
+      "Fries",
+      "Haloform",
+      "Cannizzaro"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q008",
+    "question": "Which of the following group responsible for vitamin A activity",
+    "options": [
+      "Conjugated double bond",
+      "Ionone ring",
+      "Catechol ring",
+      "Both (a) and (b)"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q009",
+    "question": "According to Drugs and cosmetic act and rules, standard for cosmetic is included in schedule",
+    "options": [
+      "P",
+      "S",
+      "W",
+      "Y"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q010",
+    "question": "A mosquito repellent volatile oil is obtained from",
+    "options": [
+      "Artemisia brevifolia",
+      "Cymbopogon nardus",
+      "Trachyspermum ammi",
+      "Cymbopogon flexuosus"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q011",
+    "question": "All of the following are tablet processing problems except",
+    "options": [
+      "Roughness",
+      "Sticking & picking",
+      "Capping & Lamination",
+      "Double impression"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q012",
+    "question": "National Institute of Biologicals is located in",
+    "options": [
+      "Chennai",
+      "Raipur",
+      "Noida",
+      "Chandigarh"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q013",
+    "question": "In the DNA structure, the groove appears at every",
+    "options": [
+      "2.5 A",
+      "3.4 A",
+      "2 A",
+      "15.5 A"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q014",
+    "question": "Which of the following is NOT a function of the kidney",
+    "options": [
+      "Excretion of urea",
+      "Defecation",
+      "Regulation of fluids and electrolytes",
+      "Elimination of toxic substances"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q015",
+    "question": "Vaccine rotavirus given by the following route",
+    "options": [
+      "IM",
+      "SC",
+      "Intradermal",
+      "Oral"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q016",
+    "question": "Which vitamin is teratogenic vitamin",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q017",
+    "question": "Subcutaneous route follow by which of the following vaccine",
+    "options": [
+      "Measles",
+      "Yellow Fever",
+      "DPT",
+      "Both (a) and (b)"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q018",
+    "question": "Liposome used to incorporate _____ drug",
+    "options": [
+      "Hydrophilic",
+      "Lipophilic",
+      "Both (a) and (b)",
+      "None"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q019",
+    "question": "Absorption rate for multiple compartments can be determined by accurately",
+    "options": [
+      "Method of residual",
+      "Wagner-Nelson method",
+      "Loo-Riegelman",
+      "Sigma method"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q020",
+    "question": "Harshness of water is expressed in",
+    "options": [
+      "Milliliter",
+      "Dynes",
+      "ppm",
+      "Dyne / second"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q021",
+    "question": "Sterilization of packed food such as milk and meat products can be done by",
+    "options": [
+      "Gaseous sterilization",
+      "Moist heat sterilization",
+      "Radiation sterilization",
+      "Dry heat sterilization"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q022",
+    "question": "Chlorophyll test is positive in",
+    "options": [
+      "Male fern",
+      "Clove",
+      "Rhubarb",
+      "Pale catechu"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q023",
+    "question": "Ketone bodies are synthesized from fatty acid oxidation products by which of the following organ",
+    "options": [
+      "Brain",
+      "Skeletal muscle",
+      "Liver",
+      "Kidney"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q024",
+    "question": "Sickle cell anaemia and Huntington's chorea are both",
+    "options": [
+      "Virus-related diseases",
+      "Bacteria-related diseases",
+      "Congenital disorders",
+      "Deficiency disease"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q025",
+    "question": "Which of the following is an incorrect statement about the parasympathetic systems",
+    "options": [
+      "It increases digestive action",
+      "It is the fight or flight system",
+      "Shows breathing rate",
+      "Establishes resting state"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q026",
+    "question": "What ions determine the resting potential of a nerve",
+    "options": [
+      "Sodium and calcium",
+      "Calcium and copper",
+      "Potassium and calcium",
+      "Sodium and potassium"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q027",
+    "question": "In biopharmaceutical classification class II drug are with",
+    "options": [
+      "Low solubility and high permeability",
+      "High solubility and low permeability",
+      "Low solubility and poor permeability",
+      "High solubility and high permeability"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q028",
+    "question": "Half-life of zero order rate reaction is",
+    "options": [
+      "A/2k",
+      "0.693/k",
+      "2A/k",
+      "None of these"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q029",
+    "question": "The number of ring(s) found in β-carotene is/are",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q030",
+    "question": "After the birth which of the following vaccine given primarily to the infant",
+    "options": [
+      "BCG",
+      "OPV",
+      "Hepatitis B-1",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q031",
+    "question": "Drug protein binding can be determined by",
+    "options": [
+      "Chromatography",
+      "Dialysis",
+      "Phase separation",
+      "Langmuir's method"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q032",
+    "question": "Submerger culture is difficult for",
+    "options": [
+      "Bacteria",
+      "Yeast",
+      "Filamentous fungi",
+      "None of these"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q033",
+    "question": "Modern chemotherapy was discovered by",
+    "options": [
+      "Thomas Hunt Morgan",
+      "Albrecht Kossel",
+      "Emil Adolf von Behring",
+      "Paul Ehrlich"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q034",
+    "question": "Vehicle for soft gelatin capsule",
+    "options": [
+      "PEG",
+      "Mineral oil",
+      "Vegetable oil",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q035",
+    "question": "Three amide bonds are present in",
+    "options": [
+      "Dipeptide",
+      "Tetrapeptide",
+      "Tripeptide",
+      "Decapeptide"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q036",
+    "question": "Which sugar is of Broomstick shaped crystals",
+    "options": [
+      "Glucose",
+      "Sucrose",
+      "Starch",
+      "All of these"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q037",
+    "question": "The two strands of DNA are joined non-covalently by",
+    "options": [
+      "Ionic bonds",
+      "Covalent bonds",
+      "Hydrogen bonds between bases",
+      "Polar charges"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q038",
+    "question": "A source of anticarcinogenic drug is",
+    "options": [
+      "Belladonna",
+      "Nux vomica",
+      "Vinca rosea",
+      "Cascara"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q039",
+    "question": "5,5 Diethyl barbituric acid is common name of",
+    "options": [
+      "Phenobarbital",
+      "Barbitone",
+      "Thiopental",
+      "Pentobarbital"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q040",
+    "question": "One of the following amino acid is dicarboxylic acid",
+    "options": [
+      "Glycine",
+      "Ornithine",
+      "Citrulline",
+      "Aspartic acid"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q041",
+    "question": "IR sample should be in which form",
+    "options": [
+      "Gas",
+      "Liquid",
+      "solid",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q042",
+    "question": "Which among the following is an essential amino acid",
+    "options": [
+      "Cysteine",
+      "Leucine",
+      "Tyrosine",
+      "Aspartic acid"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q043",
+    "question": "Which of the following compound is Water soluble",
+    "options": [
+      "Amylose",
+      "Amylopectin",
+      "Both (a) and (b)",
+      "None of these"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q044",
+    "question": "M-2 protein is the target site for the action of which drug",
+    "options": [
+      "Amantadine",
+      "Interferon",
+      "Ribavirin",
+      "Clilastatin"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q045",
+    "question": "Syrup USP is",
+    "options": [
+      "64.74% w/w of sucrose",
+      "66.712% w/w of sucrose",
+      "64.74% w/w of glucose",
+      "85% w/w of sucrose"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q046",
+    "question": "Which of following contain chromosome?",
+    "options": [
+      "Mitochondria",
+      "ER",
+      "Golgi body",
+      "Cytoplasm"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q047",
+    "question": "The study of variations in drug response as influenced by time is called as",
+    "options": [
+      "Pharmacodynamics",
+      "Pharmacokinetics",
+      "Chronopharmacology",
+      "Pharmacogenetics"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q048",
+    "question": "Select the solvent used is NMR",
+    "options": [
+      "Trifluoroacetic acid",
+      "Chloroform",
+      "DMSO",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q049",
+    "question": "Which of the following is Peripheral proteins of cell membrane",
+    "options": [
+      "Fibronectin",
+      "Glycoprotein",
+      "Both (a) and (b)",
+      "Adenylate"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q050",
+    "question": "Which one of the following is crystalline form except",
+    "options": [
+      "Amorphous",
+      "Hydrates",
+      "Polymorph",
+      "Pseudopolymorph"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q051",
+    "question": "The major protein of component of connective tissue in mammals which comprises most of the organic matter of skin, tendons, bones, teeth and ____ occurs as fibrous inclusions in most other body structures",
+    "options": [
+      "Elastin",
+      "Collagen",
+      "Fatty acids",
+      "Keratin"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q052",
+    "question": "Marketed formulations which has been recently banned by ministry of family welfare is/are",
+    "options": [
+      "Cures",
+      "Phensedyl",
+      "Vicks action-500",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q053",
+    "question": "DNA is situated in cell in",
+    "options": [
+      "Nucleus",
+      "Membrane",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q054",
+    "question": "Sibutramine is the drug used as",
+    "options": [
+      "Anti-obesity",
+      "Anorexiant",
+      "Both (a) and (b)",
+      "Diabetes"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q055",
+    "question": "The maximum amount of capsaicin is present in",
+    "options": [
+      "Leaves",
+      "Root",
+      "Seeds",
+      "Inner wall of fruits"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q056",
+    "question": "Which one is imino acid?",
+    "options": [
+      "Pepsin",
+      "Proline",
+      "Cysteine",
+      "Resin"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q057",
+    "question": "The main difference between Gram positive and Gram-negative bacteria is",
+    "options": [
+      "Cell membrane",
+      "Cell Wall",
+      "Ribosome",
+      "Mitochondria"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q058",
+    "question": "Electric potential of the brain is recorded by",
+    "options": [
+      "CT Scan",
+      "Sphygmomanometer",
+      "ECG",
+      "EEG"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q059",
+    "question": "Which function will be lost due to damage of occipital lobe",
+    "options": [
+      "Hearing",
+      "Speech",
+      "Vision",
+      "Memory"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q060",
+    "question": "Meissner's corpuscles occur in the",
+    "options": [
+      "Brain",
+      "Nerve cell",
+      "Skin",
+      "Tongue"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q061",
+    "question": "Histones is present in",
+    "options": [
+      "Nucleosomes",
+      "DNA",
+      "RNA",
+      "Both (a) and (b)"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q062",
+    "question": "The main objective of budgeting is",
+    "options": [
+      "Planning",
+      "Co-ordination",
+      "Control",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q063",
+    "question": "Ptyalin is inactivated by a component of gastric juice known as",
+    "options": [
+      "Pepsin",
+      "Mucus",
+      "Rennin",
+      "HCl"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q064",
+    "question": "How to extract the alkaloids in mineral salt form from plant",
+    "options": [
+      "Heating with organic solvent",
+      "Boiling with ammonium-hydroxide and water",
+      "Shaking with water containing mineral acid",
+      "Boiling with water and lead acetate"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q065",
+    "question": "Each amino acid differs from another in the",
+    "options": [
+      "Number of central carbon atoms",
+      "Size of the amino group",
+      "Number of carboxyl groups",
+      "Nature of the side chain"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q066",
+    "question": "In which stage of the first meiotic sister chromatids are formed",
+    "options": [
+      "Leptotene",
+      "Zygotene",
+      "Pachytene",
+      "All of these"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q067",
+    "question": "Which of the following base is not present in DNA",
+    "options": [
+      "Adenine",
+      "Guanine",
+      "Thymine",
+      "Uracil"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q068",
+    "question": "The use of alkaline element is precluded in HPLC because",
+    "options": [
+      "Siliceous bonded phases are stable at pH higher than 8",
+      "Siliceous bonded phases are not stable at pH above 8",
+      "Ion suppression is efficient",
+      "Ion suppression is promoted"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q069",
+    "question": "Cocaine is",
+    "options": [
+      "Injectable anaesthetic",
+      "Surface anaesthetic",
+      "Soluble surface anaesthetic",
+      "Insoluble surface anaesthetic"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q070",
+    "question": "Leukopenia occurs due to",
+    "options": [
+      "Reduced number of WBC",
+      "Reduced number of RBC",
+      "Reduced number of platelets",
+      "Increases size Platelets"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q071",
+    "question": "Impurity can be best analysed by among the following procedure",
+    "options": [
+      "DSC",
+      "DTA",
+      "TGA",
+      "None of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q072",
+    "question": "Amino acid is present in",
+    "options": [
+      "CoA",
+      "Nerve impulse",
+      "Citrus fruit",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q073",
+    "question": "In Influenza virus we classify (H1N1) Virus N stands for",
+    "options": [
+      "Nector",
+      "Neuropeptidase",
+      "Neuraminidase",
+      "Neurotransmitter"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q074",
+    "question": "Codons are present in",
+    "options": [
+      "Template strand of DNA",
+      "mRNA",
+      "tRNA",
+      "rRNA"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q075",
+    "question": "Degradation product of purines is/are",
+    "options": [
+      "Uric acid",
+      "Urea",
+      "Hypoxanthine",
+      "All of these"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q076",
+    "question": "Which storage device uses optical technology to read and write data?",
+    "options": [
+      "SSD",
+      "CD-ROM",
+      "Hard Drive",
+      "Flash Drive"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q077",
+    "question": "The shortcut key to undo the last action in most applications is",
+    "options": [
+      "Ctrl + Y",
+      "Ctrl + X",
+      "Ctrl + U",
+      "Ctrl + Z"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q078",
+    "question": "What is the main purpose of a VPN (Virtual Private Network)?",
+    "options": [
+      "To increase internet speed",
+      "To provide a secure connection over a public network",
+      "To create a local network",
+      "To monitor web traffic"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q079",
+    "question": "In computing, which of the following is considered volatile memory?",
+    "options": [
+      "RAM",
+      "ROM",
+      "Hard Disk",
+      "SSD"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q080",
+    "question": "Which tool is used to compress files in Windows?",
+    "options": [
+      "WinRAR",
+      "Notepad",
+      "Task Manager",
+      "Paint"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q081",
+    "question": "A man covers a distance of 18 km at 6 km/h and returns at 9 km/h. What is his average speed for the entire journey?",
+    "options": [
+      "7.2 km/h",
+      "7.5 km/h",
+      "8 km/h",
+      "7 km/h"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q082",
+    "question": "A man invests ₹8,000 at 10% per annum compound interest. What will be the amount after 2 years?",
+    "options": [
+      "₹9,600",
+      "₹9,680",
+      "₹9,720",
+      "₹9,840"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q083",
+    "question": "The perimeter of a rectangle is 60 m. If its length is 20 m, what is its area?",
+    "options": [
+      "200 m²",
+      "240 m²",
+      "300 m²",
+      "180 m²"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q084",
+    "question": "The LCM of two numbers is 120, and their HCF is 12. If one of the numbers is 24, what is the other number?",
+    "options": [
+      "48",
+      "60",
+      "36",
+      "72"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q085",
+    "question": "The difference between a two-digit number and the number obtained by reversing its digits is 36. What is the sum of its digits?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q086",
+    "question": "If “STORM” is coded as “RTNLP”, how is “CLOUD” coded?",
+    "options": [
+      "BKNCT",
+      "BKNTC",
+      "DKOTC",
+      "DKNTC"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q087",
+    "question": "Pointing to a woman, Ravi said, “She is the daughter of my grandfather's only son.” How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Cousin",
+      "Mother",
+      "Aunt"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q088",
+    "question": "Find the odd one out: Lion, Elephant, Tiger, Leopard.",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Tiger",
+      "Leopard"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q089",
+    "question": "What comes next in the series: A, C, F, J, ?",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q090",
+    "question": "In a certain code language, \"TABLE\" is coded as \"ELBAT.\" How is \"CHAIR\" coded?",
+    "options": [
+      "RIACH",
+      "IRAHC",
+      "RIHAC",
+      "RHIAC"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q091",
+    "question": "The idea of Directive Principles of State Policy in the Indian Constitution was borrowed from which country?",
+    "options": [
+      "United States",
+      "United Kingdom",
+      "Ireland",
+      "Australia"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q092",
+    "question": "Which was the first Indian-built satellite to be launched into space?",
+    "options": [
+      "Aryabhata",
+      "Bhaskara I",
+      "Rohini",
+      "INSAT-1A"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q093",
+    "question": "The Vijayanagara Empire was established in which year?",
+    "options": [
+      "1326",
+      "1336",
+      "1346",
+      "1356"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q094",
+    "question": "What is the name of the agreement signed between India and Sri Lanka on the repatriation of Tamils?",
+    "options": [
+      "Indo-Sri Lanka Accord",
+      "Rajiv-Jayewardene Agreement",
+      "Colombo Declaration",
+      "Srimavo-Shastri Pact"
+    ],
+    "answer": 3,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q095",
+    "question": "Which Indian city is often referred to as the 'City of Destiny'?",
+    "options": [
+      "Hyderabad",
+      "Visakhapatnam",
+      "Pune",
+      "Bengaluru"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q096",
+    "question": "Who established the Mohammedan Anglo-Oriental College, which later became Aligarh Muslim University?",
+    "options": [
+      "Sir Syed Ahmed Khan",
+      "Aga Khan",
+      "Maulana Abul Kalam Azad",
+      "Shah Waliullah"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q097",
+    "question": "Which Indian state has the largest area under forest cover?",
+    "options": [
+      "Arunachal Pradesh",
+      "Madhya Pradesh",
+      "Chhattisgarh",
+      "Odisha"
+    ],
+    "answer": 1,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q098",
+    "question": "Who presided over the first session of the Indian National Congress in 1885?",
+    "options": [
+      "Dadabhai Naoroji",
+      "W.C. Bonnerjee",
+      "A.O. Hume",
+      "Surendranath Banerjee"
+    ],
+    "answer": 2,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q099",
+    "question": "Which Indian river flows through a rift valley?",
+    "options": [
+      "Krishna",
+      "Godavari",
+      "Narmada",
+      "Mahanadi"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  },
+  {
+    "id": "q100",
+    "question": "Which event marked the beginning of the Swadeshi Movement in India?",
+    "options": [
+      "Partition of Bengal",
+      "Jallianwala Bagh Massacre",
+      "Non-Cooperation Movement",
+      "Simon Commission Protests"
+    ],
+    "answer": 0,
+    "subject": "Model Paper 23"
+  }
+]

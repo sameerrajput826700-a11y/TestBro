@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q001",
+    "question": "Tuberculosis is diagnosed by:",
+    "options": [
+      "Widal Test",
+      "ELISA Test",
+      "Mantoux test",
+      "Adler's Method"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q002",
+    "question": "The salt used in the X-ray studies of the gastrointestinal tract is:",
+    "options": [
+      "Barium sulfate",
+      "Bismuth Sub-nitrate",
+      "Thorium dioxide",
+      "Titanium dioxide"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q003",
+    "question": "An example of sulfonyl urea is:",
+    "options": [
+      "Metformin",
+      "Tolbutamide",
+      "Rosiglitazone",
+      "Repaglinide"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q004",
+    "question": "An antimalarial obtained from natural source is:",
+    "options": [
+      "Strychnine",
+      "Brucine",
+      "Reserpine",
+      "Quinine"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q005",
+    "question": "Yeast come under a group of:",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Protozoa",
+      "Virus"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q006",
+    "question": "Ranitidine is a:",
+    "options": [
+      "H2 antagonist",
+      "H1 antagonist",
+      "Beta adrenergic antagonist",
+      "Alpha adrenergic antagonist"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q007",
+    "question": "The component of tablet machine which controls the shape and size of the tablet is:",
+    "options": [
+      "Hopper",
+      "Punches",
+      "Cam Track",
+      "Dies"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q008",
+    "question": "Pilocarpine is an alkaloid containing:",
+    "options": [
+      "Pyrazole",
+      "Imidazole",
+      "Oxazole",
+      "Pyrrole"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q009",
+    "question": "Spherical shaped bacteria are termed as:",
+    "options": [
+      "Bacilli",
+      "Cocci",
+      "Spirochaetes",
+      "Vibrios"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q010",
+    "question": "Which of the following is a female sex hormone:",
+    "options": [
+      "Stilbesterol",
+      "Testosterone",
+      "Estrogen",
+      "Benzerestol"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q011",
+    "question": "One among the following is a volatile oil containing crude drug:",
+    "options": [
+      "Chirata",
+      "Cardamom",
+      "Linseed",
+      "Myrobalan"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q012",
+    "question": "A non-drug part added to the formulation to aid dilution, stability maintaining, taste masking etc. is known as:",
+    "options": [
+      "Preservative",
+      "Active Ingredient",
+      "Additive",
+      "Binding agent"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q013",
+    "question": "The condensation of chromatin and shrinkage of the nucleus leading to cell death is termed as:",
+    "options": [
+      "Karyorrhexis",
+      "Pyknosis",
+      "Karyolysis",
+      "Autophagy"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q014",
+    "question": "An amino acid considered as a lipotropic factor is:",
+    "options": [
+      "Methionine",
+      "Tryptophan",
+      "Histidine",
+      "Serine"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q015",
+    "question": "Which among the following is antidandruff drug?",
+    "options": [
+      "Zinc Sulphate",
+      "Selenium Sulfide",
+      "Zinc Carbonate",
+      "Sodium Fluoride"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q016",
+    "question": "Emetine is the main ingredient of:",
+    "options": [
+      "Ipecac",
+      "Isabgol",
+      "Pyrethrum",
+      "Rhubarb"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q017",
+    "question": "Parasympathomimetic drugs cause:",
+    "options": [
+      "Bronchodilation",
+      "Mydriasis",
+      "Bradycardia",
+      "Constipation"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q018",
+    "question": "Which of the following is a catecholamine:",
+    "options": [
+      "Thyroxine",
+      "Melanin",
+      "Tyramine",
+      "Dopamine"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q019",
+    "question": "Which of the following hormones inhibits the secretion of insulin, glucagon and growth hormone?",
+    "options": [
+      "Somatostatin",
+      "Thyroxin",
+      "Melatonin",
+      "Serotonin"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q020",
+    "question": "Tropane alkaloids can be identified by:",
+    "options": [
+      "Thalloqin test",
+      "Vitality test",
+      "Biuret test",
+      "Milon's test"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q021",
+    "question": "mRNA is synthesized in the nucleus as:",
+    "options": [
+      "tmRNA",
+      "snRNA",
+      "scRNA",
+      "hnRNA"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q022",
+    "question": "Which of the following agents is used as an inhalation drug in asthma?",
+    "options": [
+      "Atropine",
+      "Ipratropium",
+      "Lobeline",
+      "Homatropine"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q023",
+    "question": "The antifungal drug, fluconazole belongs to the class of:",
+    "options": [
+      "Pyridine",
+      "Azoles",
+      "Pyrimidines",
+      "Acridines"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q024",
+    "question": "Kala Azar is a type of:",
+    "options": [
+      "Giardiasis",
+      "Leishmaniasis",
+      "Helminthiasis",
+      "Schistosomiasis"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q025",
+    "question": "A parenteral anticoagulant drug is:",
+    "options": [
+      "Penicillin",
+      "Phenindione",
+      "Warfarin",
+      "Heparin"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q026",
+    "question": "Indicate the sympathomimetic agent, which is combined with a local anesthetic to prolong the duration of infiltration nerve block:",
+    "options": [
+      "Epinephrine",
+      "Xylometazoline",
+      "Isoproterenol",
+      "Dobutamine"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q027",
+    "question": "Which of the following is a plasma kinin?",
+    "options": [
+      "Kallidin",
+      "Serotonin",
+      "Histamine",
+      "Renin"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q028",
+    "question": "Dapsone is used for the therapy of:",
+    "options": [
+      "Tuberculosis",
+      "Amoebicide",
+      "Leprosy",
+      "Helminthiasis"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q029",
+    "question": "Hospital acquired infections are called:",
+    "options": [
+      "Primary infection",
+      "Secondary infection",
+      "Nosocomial infection",
+      "Latent Infection"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q030",
+    "question": "Senna belongs to the family of:",
+    "options": [
+      "Leguminosae",
+      "Burseraceae",
+      "Rhamnaceae",
+      "Scrophulariaceae"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q031",
+    "question": "Etoposide is a semisynthetic derivative of:",
+    "options": [
+      "Plant terpene",
+      "Plant Tannin",
+      "Plant Alkaloid",
+      "Plant Glycoside"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q032",
+    "question": "The pathogenic organism in milk is killed by:",
+    "options": [
+      "Tyndallization",
+      "Pasteurization",
+      "Autoclaving",
+      "Dry Heat Sterilization"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q033",
+    "question": "An element having a vital role in the biosynthesis of thyroid hormone is:",
+    "options": [
+      "Zinc",
+      "Bromine",
+      "Iodine",
+      "Chlorine"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q034",
+    "question": "Chlorpromazine is an antipsychotic drug possessing:",
+    "options": [
+      "Butyrophenone",
+      "Thioxanthine",
+      "Phenothiazine",
+      "Acridine"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q035",
+    "question": "Wilms' tumour is also known as:",
+    "options": [
+      "Hepatoblastoma",
+      "Nephroblastoma",
+      "Neuroblastoma",
+      "Oxioblastoma"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q036",
+    "question": "Pharmacodynamics involves the study of following:",
+    "options": [
+      "Mechanism of drug action",
+      "Biotransformation of drugs in organism",
+      "Distribution of drug in organism",
+      "Excretion of drug from organism"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q037",
+    "question": "The extraction process where the powdered crude drug is kept in contact with suitable solvent for a suitable time:",
+    "options": [
+      "Percolation",
+      "Decoction",
+      "Maceration",
+      "Reverse Percolation"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q038",
+    "question": "When the anaesthetic is injected in the subarachnoid space, it is termed as:",
+    "options": [
+      "Epidural anaesthesia",
+      "Surface anaesthesia",
+      "Infiltration anaesthesia",
+      "Spinal anaesthesia"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q039",
+    "question": "Indicate muscles, which are more resistant to block and recover more rapidly:",
+    "options": [
+      "Hand",
+      "Leg",
+      "Neck",
+      "Diaphragm"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q040",
+    "question": "The active metabolite of Imipramine is:",
+    "options": [
+      "Nortriptyline",
+      "Amitriptyline",
+      "Desipramine",
+      "Alloxazine"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q041",
+    "question": "The powerhouse of the cell is:",
+    "options": [
+      "Golgi bodies",
+      "Mitochondria",
+      "Ribosomes",
+      "Nucleus"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q042",
+    "question": "Marasmus is associated with:",
+    "options": [
+      "Fat & Protein Deficiency",
+      "Fat & Carbohydrate deficiency",
+      "Protein & carbohydrate deficiency",
+      "Only Protein deficiency"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q043",
+    "question": "A naturally occurring sympatholytic is:",
+    "options": [
+      "Asafoetida",
+      "Arsoka",
+      "Arjuna",
+      "Agar"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q044",
+    "question": "The cardiovascular disease associated with disorder of heartrate or rhythm is called:",
+    "options": [
+      "Arrhythmia",
+      "Myocardial infarction",
+      "Angina Pectoris",
+      "Ischemia"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q045",
+    "question": "Vitamin tablets are generally formulated as:",
+    "options": [
+      "Hypodermic Tablets",
+      "Sublingual Tablets",
+      "Effervescent Tablets",
+      "Chewable Tablets"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q046",
+    "question": "Phenobarbitone is a:",
+    "options": [
+      "Sedative",
+      "Antitussive",
+      "Antipsychotic",
+      "Anxiolytic"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q047",
+    "question": "Naturally occurring sympatholytic is:",
+    "options": [
+      "Strychnine",
+      "Morphine",
+      "Reserpine",
+      "Quinine"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q048",
+    "question": "A narcotic analgesic:",
+    "options": [
+      "Reserpine",
+      "Papaverine",
+      "Quinine",
+      "Morphine"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q049",
+    "question": "The percentage change in quantity caused by a 1% change in price is known as:",
+    "options": [
+      "Inelasticity of demand",
+      "Cross-price elasticity",
+      "Income elasticity of demand",
+      "Price elasticity of demand"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q050",
+    "question": "Glucocorticoids are involved in:",
+    "options": [
+      "Sodium Metabolism",
+      "Potassium Metabolism",
+      "Fat Metabolism",
+      "Fluid Balance"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q051",
+    "question": "The efficiency of HEPA filter can be tested using:",
+    "options": [
+      "Sterility test",
+      "Clarity test",
+      "Dioctyl phthalate smoke test",
+      "Particle counter"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q052",
+    "question": "Pharmacy and Therapeutic Committee has role except in:",
+    "options": [
+      "ADR monitoring and reporting",
+      "Preparation of drug list and emergency supplies",
+      "Medical record services",
+      "Drug utilization review"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q053",
+    "question": "MEDLINE is a drug information resource categorized under:",
+    "options": [
+      "Primary resource",
+      "Secondary resource",
+      "Tertiary resource",
+      "Primary literature"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q054",
+    "question": "Test for water holding capacity is stated in Indian pharmacopoeia for:",
+    "options": [
+      "Adhesive tape",
+      "Elastic bandage",
+      "Crepe bandage",
+      "Absorbent cotton wool"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q055",
+    "question": "'Clean room area' means",
+    "options": [
+      "Socially clean area free from particulate matter",
+      "Social clean area",
+      "Aseptic area",
+      "Area with high standards of cleanliness and hygiene"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q056",
+    "question": "Satellite pharmacy a mode of drug distribution system under:",
+    "options": [
+      "Charge floor stock system",
+      "Centralised unit dose dispensing system",
+      "Decentralised unit dose dispensing system",
+      "Individual prescription system"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q057",
+    "question": "Automatic stop order is used for:",
+    "options": [
+      "OTC drugs",
+      "Dangerous drugs",
+      "Orphan drugs",
+      "Counterfeit drug"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q058",
+    "question": "Absorbable suture is:",
+    "options": [
+      "Nylon suture 2/0 (reverse cutting)",
+      "Silk suture braided 2/0",
+      "Cotton",
+      "Catgut chromic 2/0"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q059",
+    "question": "Tuberculin syringe is available in:",
+    "options": [
+      "1 ml",
+      "2 ml",
+      "3 ml",
+      "5 ml"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q060",
+    "question": "Which one is used for aspiration of stomach contents?",
+    "options": [
+      "Endotracheal tube",
+      "Ryle's tube",
+      "Metal catheter",
+      "Rubber catheter"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q061",
+    "question": "Withdrawal symptoms of opioids can be managed with:",
+    "options": [
+      "Oxycodone",
+      "Meperidine",
+      "Methadone",
+      "Heroin"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q062",
+    "question": "Bioavailability increases when drugs are in:",
+    "options": [
+      "Non-ionised form",
+      "Ionised form",
+      "Crystalline form",
+      "Hydrated form"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q063",
+    "question": "Insulin induced hypoglycaemia is classified under:",
+    "options": [
+      "Type A Adverse Drug Reaction",
+      "Type B Adverse Drug Reaction",
+      "Type C Adverse Drug Reaction",
+      "Type D Adverse Drug Reaction"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q064",
+    "question": "A method to improve patient compliance is:",
+    "options": [
+      "Patient counselling",
+      "Proper packaging and labelling",
+      "Simplification of medication regimens",
+      "All the above"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q065",
+    "question": "Serum sodium level is:",
+    "options": [
+      "3.4-4.5 mmol/L",
+      "2.2-2.6 mmol/L",
+      "135-145 mmol/L",
+      "110-120 mmol/L"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q066",
+    "question": "Metoclopramide if given with paracetamol:",
+    "options": [
+      "Increase metabolism of paracetamol",
+      "Decrease analgesic effect",
+      "Decrease onset time for analgesia",
+      "Combination is pharmacologically inactive"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q067",
+    "question": "Fatigue, weight loss, chronic cough, night sweats, chest pain are clinical symptoms of:",
+    "options": [
+      "Angina pectoris",
+      "Tuberculosis",
+      "Hypertension",
+      "Diabetes mellitus"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q068",
+    "question": "HBsAg testing is done to detect the presence of:",
+    "options": [
+      "Hepatitis A virus",
+      "Chickenpox virus",
+      "Hepatitis B virus",
+      "Hepatitis C virus"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q069",
+    "question": "Amphetamine poisoning can be treated with:",
+    "options": [
+      "Thiamine",
+      "Ascorbic acid",
+      "Sodium bicarbonate",
+      "Ammonia"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q070",
+    "question": "If two or more dosage forms of same drug contain same labelled quantities of the drug, they are:",
+    "options": [
+      "Therapeutic equivalent",
+      "Chemical equivalent",
+      "Clinical equivalent",
+      "None of these"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q071",
+    "question": "Rearrange the jumbled letters to make meaningful words and then select the one which is different:",
+    "options": [
+      "LOWEHY",
+      "HFER",
+      "THIWE",
+      "WORNE"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q072",
+    "question": "The planet Mars is also known as the ____.",
+    "options": [
+      "Morning Star",
+      "Evening star",
+      "Red planet",
+      "Blue planet"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q073",
+    "question": "What is the common name of the solution of calcium hydroxide?",
+    "options": [
+      "Lime water",
+      "Diet soda",
+      "Salt solution",
+      "Vinegar"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q074",
+    "question": "Nurse : Ward :: ? : Board",
+    "options": [
+      "Student",
+      "Board",
+      "Class",
+      "Lesson"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q075",
+    "question": "Jantar Mantar in Delhi is historically important for",
+    "options": [
+      "Public meetings",
+      "Hunger strikes",
+      "Ancient sculptures",
+      "Astronomical observatory"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q076",
+    "question": "'Bharat Stage Emission Standards' refers to",
+    "options": [
+      "Vehicular pollution",
+      "Industrial pollution",
+      "Water pollution",
+      "Soil pollution"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q077",
+    "question": "Statements followed by some conclusions are given below. Statement: Q1. M > L > N  Q2. N = R. Conclusions: I. R > L  II. R < M. Find which of the given conclusions logically follows from the given statements.",
+    "options": [
+      "Only conclusion I follows.",
+      "Only conclusion II follows.",
+      "Both I and II follow.",
+      "Neither I nor II follows."
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q078",
+    "question": "Find the odd statement: Two lines are perpendicular to each other if they are",
+    "options": [
+      "Adjacent sides of a rectangle.",
+      "Diagonals of a rhombus.",
+      "Hypotenuse and one side of a right-angle triangle.",
+      "Adjacent sides of a square."
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q079",
+    "question": "A certain number of men agreed to do a work in 20 days. 5 men did not come for work. Others completed the work in 40 days. Find the number of men who had agreed to work originally.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q080",
+    "question": "How many prime numbers are there between the positive integers 60 and 100?",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q081",
+    "question": "A trader sells two articles for Rs 1875 each. If he gains 25% on one and loses 25% on the other, then what is the value (in Rs) of the loss?",
+    "options": [
+      "150",
+      "250",
+      "400",
+      "500"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q082",
+    "question": "The LCM of two numbers is 66. The numbers are in the ratio 2:3. The sum of the numbers is",
+    "options": [
+      "60",
+      "55",
+      "50",
+      "65"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q083",
+    "question": "If P means '+', R means '×', Q means '÷' and S means '−', then 36 P 6 Q R 8 S 11 =",
+    "options": [
+      "45",
+      "51",
+      "62",
+      "52"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q084",
+    "question": "Multitasking system specifically refers to",
+    "options": [
+      "More than one user.",
+      "More than one process.",
+      "More than one hardware.",
+      "More than one IP address."
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q085",
+    "question": "Union Government's School Nursery Yojana is about",
+    "options": [
+      "Creating environmental awareness in young minds.",
+      "Streamlining admissions in nursery schools.",
+      "Bringing nursery schools under regulations.",
+      "Creating awareness about safety of children."
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q086",
+    "question": "Ms. Chandra said that Lakshmi's husband is the only son of my grandfather. How is Ms. Chandra related to Lakshmi?",
+    "options": [
+      "Mother",
+      "Daughter",
+      "Cousin",
+      "Niece"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q087",
+    "question": "Chief Election Commissioner of India can be removed from the office by",
+    "options": [
+      "Both houses of Parliament",
+      "Union council of Ministers",
+      "President of India",
+      "Chief Justice of India"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q088",
+    "question": "Syed Modi International Grand Prix Gold Championship is held every year at",
+    "options": [
+      "Chandigarh",
+      "Lucknow",
+      "Delhi",
+      "Hyderabad"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q089",
+    "question": "Name the first woman to head a paramilitary force.",
+    "options": [
+      "Divya Ajith",
+      "Achana Ramasundaran",
+      "Punita Arora",
+      "Ashwini Pawar"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q090",
+    "question": "Who was known as Badshah Khan?",
+    "options": [
+      "Mohammed Ali Jinnah",
+      "Abul Kalam Azad",
+      "Khan Abdul Ghaffar Khan",
+      "Khan Abdul Wali Khan"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q091",
+    "question": "A certain sum becomes Rs 840 in 3 years and Rs 1200 in 7 years at simple interest. What is the value (in Rs.) of principal?",
+    "options": [
+      "520",
+      "570",
+      "620",
+      "670"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q092",
+    "question": "During morning walk, a man covers a distance of 3 km, 4 km, 3.5 km, 5 km and 4.5 km from Monday to Friday, respectively. How much distance should he cover on two more days, so that his average per week becomes 4 km per day?",
+    "options": [
+      "4",
+      "8",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q093",
+    "question": "Find the HCF & LCM of 16, 24.",
+    "options": [
+      "8, 48",
+      "4, 12",
+      "2, 24",
+      "4, 48"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q094",
+    "question": "Saffron is produced in a large scale in",
+    "options": [
+      "Himachal Pradesh",
+      "Gujarat",
+      "Jammu and Kashmir",
+      "Assam"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q095",
+    "question": "A man purchased a cycle for Rs. 3,000/- and agreed to pay 12% on the amount as interest. He repaid principal and interest in 12 equal monthly installments. Find the amount of each installment.",
+    "options": [
+      "Rs. 260",
+      "Rs. 240",
+      "Rs. 280",
+      "Rs. 300"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q096",
+    "question": "The political system in Afghanistan is known as",
+    "options": [
+      "Islamic State of Afghanistan",
+      "Islamic Republic of Afghanistan",
+      "Islamic Emirate of Afghanistan",
+      "Islamic Government of Afghanistan"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q097",
+    "question": "If 'are you same' = 'ri ai ki', 'all hate you' = 'vi li ri' and 'all are fake' = 'mi ai li' then which represents 'hate'?",
+    "options": [
+      "ri",
+      "li",
+      "vi",
+      "ai"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q098",
+    "question": "Pointing to K, M said that she was the daughter of the only son of his grandfather. How M is related to K?",
+    "options": [
+      "Mother",
+      "Maternal aunt",
+      "Daughter",
+      "Sister"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q099",
+    "question": "Find the mean value of 2, 3, 3, 4, 6, 7",
+    "options": [
+      "4.17",
+      "4.15",
+      "4.13",
+      "4.70"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 5"
+  },
+  {
+    "id": "q100",
+    "question": "When milk becomes sour, ____ is produced.",
+    "options": [
+      "Lactose",
+      "Lactic acid",
+      "Salicylic acid",
+      "Linoleic acid"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 5"
+  }
+]

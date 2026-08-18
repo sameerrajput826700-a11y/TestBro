@@ -1,0 +1,17 @@
+{
+  "name": "mcq-test-app",
+  "version": "1.0.0",
+  "description": "Lightweight local-first MCQ Test Application",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^4.5.0",
+    "vitest": "^0.34.6"
+  }
+}

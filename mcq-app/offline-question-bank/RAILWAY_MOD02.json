@@ -1,0 +1,1197 @@
+[
+  {
+    "id": "q001",
+    "question": "Which of the following disease is treated with penicillamine?",
+    "options": [
+      "Crohn’s disease",
+      "Alzheimer’s disease",
+      "Wilson’s disease",
+      "Carrion’s disease"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q002",
+    "question": "Aluminium hydroxide gel is assayed by",
+    "options": [
+      "Iodimetric titration",
+      "Complexometric titration",
+      "Redox titration",
+      "Non-aqueous titration"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q003",
+    "question": "An important ingredient used in commercial sun-tan preparation is",
+    "options": [
+      "Titanium dioxide",
+      "Zinc oxide",
+      "Magnesium oxide",
+      "Calcium oxide"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q004",
+    "question": "Which of the following drug is used in cough mixtures?",
+    "options": [
+      "Potassium iodide",
+      "Potassium bromide",
+      "Sodium bromide",
+      "Magnesium sulphate"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q005",
+    "question": "Gutzeit test is used for the limit test for",
+    "options": [
+      "Lead",
+      "Chloride",
+      "Iron",
+      "Arsenic"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q006",
+    "question": "Alkaline potassium mercuric iodide is known as",
+    "options": [
+      "Hager’s reagent",
+      "Nessler’s reagent",
+      "Wagner’s reagent",
+      "Marquis’ reagent"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q007",
+    "question": "Which of the following is used in antidandruff preparations?",
+    "options": [
+      "Bentonite",
+      "Calamine",
+      "Selenium sulphide",
+      "Cetrimide"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q008",
+    "question": "The reddish-purple colour formed in limit test for iron is",
+    "options": [
+      "Ferroin",
+      "Ferric thioglycollate",
+      "Ferric ferrocyanide",
+      "Ferrous thioglycollate"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q009",
+    "question": "What is Epsom salt?",
+    "options": [
+      "Ferrous sulphate",
+      "Magnesium sulphate",
+      "Copper sulphate",
+      "Barium sulphate"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q010",
+    "question": "Which of the following drug is used as antidote in arsenic poisoning?",
+    "options": [
+      "Dimercaprol",
+      "Penicillamine",
+      "Pralidoxime",
+      "Desferrioxamine"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q011",
+    "question": "Which of the following is a tropane alkaloid?",
+    "options": [
+      "Hyoscyamine",
+      "Physostigmine",
+      "Quinine",
+      "Vincristine"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q012",
+    "question": "Which of the opium alkaloid is used to suppress unproductive cough?",
+    "options": [
+      "Thebaine",
+      "Morphine",
+      "Papaverine",
+      "Codeine"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q013",
+    "question": "Chemical name of Heroin is",
+    "options": [
+      "Dimethyl morphine",
+      "Diethyl morphine",
+      "Diacetyl morphine",
+      "Dimethoxy morphine"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q014",
+    "question": "Artemisinin is a",
+    "options": [
+      "Diterpene lactone",
+      "Sesquiterpene lactone",
+      "Triterpene lactone",
+      "Tetraterpene lactone"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q015",
+    "question": "An example for indole alkaloid is",
+    "options": [
+      "Quinine",
+      "Atropine",
+      "Ephedrine",
+      "Strychnine"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q016",
+    "question": "Cholesterol on Oppenauer oxidation gives",
+    "options": [
+      "Cholest-4-en-2-one",
+      "Cholest-4-en-3-ol",
+      "Cholest-4-en-3-one",
+      "Cholest-4-en-2-ol"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q017",
+    "question": "Which of the following is the starting material for the synthesis of Vitamin A?",
+    "options": [
+      "Menthol",
+      "Citral",
+      "Thymol",
+      "Eugenol"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q018",
+    "question": "Which of the following xanthine derivative has bronchodilator action?",
+    "options": [
+      "Theophylline",
+      "Theobromine",
+      "Caffeine",
+      "Methylxanthine"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q019",
+    "question": "Major blood sugar in insects is",
+    "options": [
+      "Maltose",
+      "Sucrose",
+      "Trehalose",
+      "Raffinose"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q020",
+    "question": "An example for an aromatic amino acid is",
+    "options": [
+      "Cysteine",
+      "Valine",
+      "Methionine",
+      "Tryptophan"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q021",
+    "question": "Which of the following is used as stabilizer in diethyl ether?",
+    "options": [
+      "Chlorocresol",
+      "Propyl gallate",
+      "Phenyl mercuric nitrate",
+      "Sodium metabisulphite"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q022",
+    "question": "An example for halogenated hydrocarbon type of general anaesthetic drug is",
+    "options": [
+      "Halothane",
+      "Diethyl ether",
+      "Cyclopropane",
+      "Thiopentone"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q023",
+    "question": "Which of the following drug is an amide type of local anaesthetic?",
+    "options": [
+      "Cocaine",
+      "Procaine",
+      "Benzocaine",
+      "Lignocaine"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q024",
+    "question": "Toxic effects of isoniazid can be minimized by administering with",
+    "options": [
+      "Pyridoxine",
+      "Folic acid",
+      "Nicotinic acid",
+      "Pantothenic acid"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q025",
+    "question": "Benzodiazepine overdosage is treated with",
+    "options": [
+      "Flumazenil",
+      "Fluphenazine",
+      "Flupenthixol",
+      "Fludrocortisone"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q026",
+    "question": "In which category of the antipsychotic drugs chlorpromazine belongs to?",
+    "options": [
+      "Butyrophenone",
+      "Phenothiazine",
+      "Thioxanthene",
+      "Indole derivative"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q027",
+    "question": "Drug used to treat filariasis is",
+    "options": [
+      "Albendazole",
+      "Mebendazole",
+      "Thiabendazole",
+      "Diethyl carbamazine citrate"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q028",
+    "question": "An alkaloidal drug used as anticholinesterase agent is",
+    "options": [
+      "Pyridostigmine",
+      "Neostigmine",
+      "Physostigmine",
+      "Edrophonium"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q029",
+    "question": "Which vitamin is used to treat beriberi?",
+    "options": [
+      "Pyridoxine",
+      "Riboflavin",
+      "Nicotinic acid",
+      "Thiamine"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q030",
+    "question": "An example for 8-aminoquinoline derivative used as antimalarial drug is",
+    "options": [
+      "Chloroquine",
+      "Primaquine",
+      "Proguanil",
+      "Amodiaquine"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q031",
+    "question": "Activation of TLC plates is the process in which is done",
+    "options": [
+      "Dipping in developing solvent",
+      "Increasing the chirality",
+      "Heating at high temperature",
+      "Adding fluorescent dye"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q032",
+    "question": "Are used in qualitative analysis to find out whether the compounds belong to homologous series.",
+    "options": [],
+    "answer": null,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q033",
+    "question": "The visualizing reagent for cardiac glycosides is",
+    "options": [
+      "Ferric chloride",
+      "2,4 Dinitro phenylhydrazine",
+      "Ninhydrin",
+      "3,5 Dinitro benzoic acid"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q034",
+    "question": "The non-polar stationary phase used in gas-liquid chromatography is",
+    "options": [
+      "Polydimethyl siloxane",
+      "Polyethylene glycol",
+      "Polypropylene glycol",
+      "Polyvinyl pyrrolidone"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q035",
+    "question": "_____ is a hypothetical functional unit of a column in gas chromatography.",
+    "options": [
+      "Stationary phase",
+      "Theoretical plate",
+      "Mobile phase",
+      "Activated plate"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q036",
+    "question": "The fingerprint region of IR spectroscopy is",
+    "options": [
+      "100 cm⁻¹ to 150 cm⁻¹",
+      "4000 cm⁻¹ to 1600 cm⁻¹",
+      "1500 cm⁻¹ to 400 cm⁻¹",
+      "6000 cm⁻¹ to 4000 cm⁻¹"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q037",
+    "question": "_____ is the father of quality circles, a voluntary group of employees who work on similar tasks.",
+    "options": [
+      "Joseph M. Juran",
+      "Philip Crosby",
+      "Edwards Deming",
+      "Kaoru Ishikawa"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q038",
+    "question": "International Conference on Harmonization (ICH) Q18 guidelines describes",
+    "options": [
+      "Pharmacopoeial harmonization",
+      "Photostability testing of new drug substances",
+      "Evaluation of stability data",
+      "Quality risk management"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q039",
+    "question": "A Hollow Cathode Lamp is a source in spectroscopy.",
+    "options": [
+      "Atomic absorption spectroscopy",
+      "Flame photometry",
+      "Infrared spectroscopy",
+      "Ultra-violet spectroscopy"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q040",
+    "question": "Potassium metal when excited in a flame emits color.",
+    "options": [
+      "Red",
+      "Green",
+      "Lilac",
+      "Orange"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q041",
+    "question": "Indeterminate errors are also called as",
+    "options": [
+      "Systemic errors",
+      "Random errors",
+      "Additive errors",
+      "Personal errors"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q042",
+    "question": "_____ is an aprotic solvent used in non-aqueous titrations.",
+    "options": [
+      "Toluene",
+      "Hydrogen fluoride",
+      "Sulphuric acid",
+      "Acetic acid"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q043",
+    "question": "An example of fractional precipitation is",
+    "options": [
+      "Gay Lussac’s method",
+      "Adsorption indicator method",
+      "Volhard’s method",
+      "Mohr’s method"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q044",
+    "question": "_____ is a demasking agent used in complexometric titrations.",
+    "options": [
+      "Cyanide",
+      "Chloralhydrate",
+      "Calcium",
+      "Cadmium"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q045",
+    "question": "The water content of glacial ethanoic acid for non-aqueous titrations may be in the range",
+    "options": [
+      "0.5-2%",
+      "1-2%",
+      "0.1-1%",
+      "0.2-5%"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q046",
+    "question": "_____ is an indicator electrode used in potentiometric experiments.",
+    "options": [
+      "Quinhydrone electrode",
+      "Calomel electrode",
+      "Silver-Silver chloride electrode",
+      "Mercurous electrode"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q047",
+    "question": "In polarography, the current which is directly proportional to concentration is",
+    "options": [
+      "Migration current",
+      "Kinetic current",
+      "Diffusion current",
+      "Limiting current"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q048",
+    "question": "_____ is added in modified Volhard’s method for determination of chlorides to form an insoluble layer over the precipitate.",
+    "options": [
+      "Toluene",
+      "Benzene",
+      "Nitrobenzene",
+      "Xylene"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q049",
+    "question": "The colour change interval of Phenol red indicator is",
+    "options": [
+      "1.2-2.8",
+      "3.4-4.4",
+      "8.2-10",
+      "6.8-8.4"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q050",
+    "question": "The theory which states that the colour change of indicators are due to structural changes is",
+    "options": [
+      "Quinonoid theory",
+      "Oswald’s theory",
+      "Arrhenius theory",
+      "Lewis theory"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q051",
+    "question": "The alkaloid containing imidazole ring structure",
+    "options": [
+      "Hygrine",
+      "Arecoline",
+      "Pilocarpine",
+      "Cocaine"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q052",
+    "question": "The alkaloid which is derived from phenylalanine is",
+    "options": [
+      "Papaverine",
+      "Codeine",
+      "Ephedrine",
+      "Atropine"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q053",
+    "question": "_____ is found in the neural branchial hearts of Pacific Hog Fish used as a potent cardiac stimulant.",
+    "options": [
+      "Eptatretin",
+      "Laminine",
+      "Saxitoxin",
+      "Anthopleurim"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q054",
+    "question": "_____ is the antibiotic principle obtained from Red algae",
+    "options": [
+      "Variablin",
+      "Ircinin",
+      "Cycloeudesmol",
+      "Artemisinin"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q055",
+    "question": "_____ are living micro-organisms when taken, improve the intestinal microbial balance.",
+    "options": [
+      "Antibiotics",
+      "Probiotics",
+      "Antioxidants",
+      "Polyunsaturated acids"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q056",
+    "question": "Green Hellebore is",
+    "options": [
+      "Kurchi",
+      "Ephedra",
+      "Veratrum",
+      "Ergot"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q057",
+    "question": "The crude drug microscopy reveals sunken stomata for",
+    "options": [
+      "Ephedra",
+      "Datura",
+      "Rauwolfia",
+      "Cinchona"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q058",
+    "question": "_____ is a blue-green algae possessing immunostimulant activity.",
+    "options": [
+      "Royal Jelly",
+      "Spirulina",
+      "Collagen",
+      "Gelatin"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q059",
+    "question": "The medicinal preparations are processed by soaking the drugs in the powdered form in a solution of sugar or jaggery is called",
+    "options": [
+      "Arka",
+      "Kvatha",
+      "Asava",
+      "Dravaka"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q060",
+    "question": "Fine powder of drugs are called as _____ in Ayurveda.",
+    "options": [
+      "Lehya",
+      "Choona",
+      "Kshavas",
+      "Lepa"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q061",
+    "question": "The neurotransmitter released at Autonomic ganglia",
+    "options": [
+      "Dopamine",
+      "Noradrenaline",
+      "Acetylcholine",
+      "Adrenaline"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q062",
+    "question": "Penalty imposed for falsely claiming to be a Registered Pharmacist on first conviction as per the Pharmacy Act",
+    "options": [
+      "Imprisonment for 3 months",
+      "Fine up to Rs. 1,000",
+      "Imprisonment for 6 months",
+      "Fine up to Rs. 500"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q063",
+    "question": "Analysis and testing of samples of vaccines are carried out at",
+    "options": [
+      "Indian Pharmacopoeia Laboratory, Ghaziabad",
+      "Central Research Institute, Kasauli",
+      "Pasteur Institute of India, Coonoor",
+      "Indian Veterinary Research Institute, Izatnagar"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q064",
+    "question": "The bacterium that is most commonly used in genetic engineering",
+    "options": [
+      "Proteus",
+      "Escherichia Coli",
+      "Klebsiella",
+      "Shigella"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q065",
+    "question": "Monoclonal antibodies are produced by",
+    "options": [
+      "Fermentation technology",
+      "Hybridoma technology",
+      "Biotechnology",
+      "Bioinformatics"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q066",
+    "question": "The immunoglobulin which is seen most abundant in breast milk",
+    "options": [
+      "IgM",
+      "IgG",
+      "IgA",
+      "IgD"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q067",
+    "question": "Drug license for the retail sale of Schedule C and C1 drugs are issued in",
+    "options": [
+      "Form 21",
+      "Form 20A",
+      "Form 20",
+      "Form 21B"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q068",
+    "question": "Most prokaryotes do not possess",
+    "options": [
+      "Nuclear membrane",
+      "Cell wall",
+      "Cytoplasm",
+      "Histones"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q069",
+    "question": "Teichoic acid is present in the cell wall of",
+    "options": [
+      "Gram-positive bacteria",
+      "Gram-negative bacteria",
+      "Both Gram positive and Gram-negative bacteria",
+      "Actinomycetes"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q070",
+    "question": "The nitrogenous base which is absent in RNA",
+    "options": [
+      "Guanine",
+      "Thymine",
+      "Adenine",
+      "Uracil"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q071",
+    "question": "If ‘+’ means ×, ‘-’ means ÷, ‘×’ means + and ‘÷’ means -; compute the value of the expression: 15 + 9 × 10 ÷ 5",
+    "options": [
+      "140",
+      "190",
+      "145",
+      "130"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q072",
+    "question": "Which of the following is NOT a rich source of Calcium?",
+    "options": [
+      "Cheese",
+      "Collard Greens",
+      "Figs",
+      "Carrots"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q073",
+    "question": "Pointing at a photograph, Ramesh said, “He is Rahul, my brother’s son’s only paternal uncle’s wife’s brother”. How is Rahul related to Ramesh?",
+    "options": [
+      "Brother-in-law",
+      "Brother",
+      "Cousin",
+      "Son"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q074",
+    "question": "Who was the first Indian to become a Nobel Laureate?",
+    "options": [
+      "Rabindranath Tagore",
+      "Mahatma Gandhi",
+      "C. V. Raman",
+      "Mother Teresa"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q075",
+    "question": "Choose the pair which is related in the same way as the words in the first pair from the given choices. OPHTHALMOLOGIST : EYE :: NEPHROLOGIST :",
+    "options": [
+      "NERVOUS SYSTEM",
+      "LIVER",
+      "KIDNEY",
+      "STOMACH"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q076",
+    "question": "Indian born Shiva Ayyadurai is associated with the invention of-",
+    "options": [
+      "Email",
+      "Internet",
+      "Keyboard",
+      "Mouse"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q077",
+    "question": "Compute: (18 + 2 × 3.3) ÷ 0.003",
+    "options": [
+      "11200",
+      "5100",
+      "8200",
+      "1610"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q078",
+    "question": "A ladder 10 m long is leaning against a vertical wall. It makes an angle of 60° with the ground. how far is the foot of the ladder from the wall?",
+    "options": [
+      "5 m",
+      "8.66 m",
+      "17.32 m",
+      "15 m"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q079",
+    "question": "Re-location of endangered or rare species from their natural habitat to protected areas equipped for their protection and preservation is called-",
+    "options": [
+      "Ex situ conservation",
+      "In situ conservation",
+      "Exile conservation",
+      "Escaped conservation"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q080",
+    "question": "From which country is the ‘Fundamental Duties’ of the Indian Constitution borrowed?",
+    "options": [
+      "UK",
+      "USA",
+      "USSR",
+      "Australia"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q081",
+    "question": "In India, the highest cricket ground above sea level lies in which state?",
+    "options": [
+      "Himachal Pradesh",
+      "Sikkim",
+      "Uttar Pradesh",
+      "Assam"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q082",
+    "question": "If BEAR = YVZI, then BUILDING =",
+    "options": [
+      "ATHKCHMF",
+      "YFROWRMT",
+      "YFSWOSMR",
+      "ATHKCHMT"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q083",
+    "question": "What is Geotropism?",
+    "options": [
+      "Growth of plants in response to Gravity",
+      "Growth of plants in response to Sunlight",
+      "Growth of plants in response to Nutrients",
+      "Growth of plants in response to Water"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q084",
+    "question": "If the cost price of 120 articles is equal to the selling price of 80 articles, find the profit percent.",
+    "options": [
+      "33.33%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q085",
+    "question": "Which of the following gases in air is responsible for the discoloration of Brass?",
+    "options": [
+      "Hydrogen Sulphide",
+      "Carbon Dioxide",
+      "Nitrogen",
+      "Carbon Monoxide"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q086",
+    "question": "Choose the one which is different or odd from the following.",
+    "options": [
+      "Dal Lake",
+      "Sambhar Lake",
+      "Vembanad Lake",
+      "Wular Lake"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q087",
+    "question": "The process when the computer is switched on and the operating system gets loaded from hard disk to main memory is called",
+    "options": [
+      "Booting",
+      "Fetching",
+      "Processing",
+      "Multi-Processing"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q088",
+    "question": "Who was the first President of the Indian National Congress?",
+    "options": [
+      "Womesh Chandra Bannerjee",
+      "Bal Gangadhar Tilak",
+      "Allan Octavian Hume",
+      "Dadabhai Naoroji"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q089",
+    "question": "What is the compound interest on Rs. 48,000 for 2 years at 20% p.a., if interest is compounded annually?",
+    "options": [
+      "Rs. 69,120",
+      "Rs. 21,120",
+      "Rs. 76,800",
+      "Rs. 72,000"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q090",
+    "question": "The Mughal empire was founded by-",
+    "options": [
+      "Babur",
+      "Humayun",
+      "Akbar",
+      "Shah Jahan"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q091",
+    "question": "Choose the one which is different or odd from the following.",
+    "options": [
+      "Knight",
+      "Rook",
+      "Bishop",
+      "Pawn"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q092",
+    "question": "The oldest oil field in Asia is located in-",
+    "options": [
+      "Gujarat",
+      "Assam",
+      "Arunachal Pradesh",
+      "Nagaland"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q093",
+    "question": "How many bones does a new born human baby have?",
+    "options": [
+      "305",
+      "206",
+      "211",
+      "411"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q094",
+    "question": "Which of the following coloured light has the lowest frequency?",
+    "options": [
+      "Green",
+      "Blue",
+      "Red",
+      "Violet"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q095",
+    "question": "The only non-metal which is liquid at room temperature is-",
+    "options": [
+      "Mercury",
+      "Bromine",
+      "Chlorine",
+      "Gallium"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q096",
+    "question": "Maanch is a folk dance from-",
+    "options": [
+      "Haryana",
+      "Kerala",
+      "Assam",
+      "Madhya Pradesh"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q097",
+    "question": "Which of the following insecticides’ harmful effects came under media attention when health issues in Kerala were publicized?",
+    "options": [
+      "Endosulfan",
+      "Lethal",
+      "Thimet",
+      "Monocil"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q098",
+    "question": "Choose the one which is different or odd from the following.",
+    "options": [
+      "Aluminum",
+      "Iron",
+      "Copper",
+      "Brass"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q099",
+    "question": "According to the Constitution, the ratio between the length and breadth of the national tricolor should be-",
+    "options": [
+      "3:2",
+      "3:1",
+      "2:1",
+      "4:3"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  },
+  {
+    "id": "q100",
+    "question": "If P travelled the first half of a journey at 40 km/hr and the remaining distance at 50 km/hr, what is the average speed of his travel?",
+    "options": [
+      "44.44 km/hr",
+      "53.33 km/hr",
+      "45 km/hr",
+      "60 km/hr"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY"
+  }
+]

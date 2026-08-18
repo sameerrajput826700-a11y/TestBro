@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q001",
+    "question": "Who is regarded the father of surgery in ancient India?",
+    "options": [
+      "Sushrutha",
+      "Charaka",
+      "Vasavadatta",
+      "Dhanvantari"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q002",
+    "question": "How many bones are there in the normal adult human body?",
+    "options": [
+      "201",
+      "204",
+      "206",
+      "210"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q003",
+    "question": "Which of these is used in the treatment of malaria?",
+    "options": [
+      "Mefloquine",
+      "Azithromycin",
+      "Rabeprazole",
+      "Methotrexate"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q004",
+    "question": "The organism responsible for AIDS is",
+    "options": [
+      "Hepatitis B virus",
+      "HIV",
+      "Herpes virus",
+      "Plasmodium"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q005",
+    "question": "Which of the following routes of drug administration is not parenteral?",
+    "options": [
+      "Intravenous",
+      "Subcutaneous",
+      "Intradermal",
+      "Sublingual"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q006",
+    "question": "Beta blockers are used in treatment of",
+    "options": [
+      "Hypertension",
+      "Diabetes mellitus",
+      "Myxedema",
+      "Hypercholesterolemia"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q007",
+    "question": "What is the primary use for pioglitazone?",
+    "options": [
+      "Anti-convulsant",
+      "In Hypertension",
+      "In Diabetes",
+      "In Malaria"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q008",
+    "question": "Fever with body aches and low platelet counts is likely to be",
+    "options": [
+      "Dengue",
+      "Typhoid",
+      "TB",
+      "Pneumonia"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q009",
+    "question": "The process of transport across a cell in particulate form by formation of vesicles is called",
+    "options": [
+      "Active transport",
+      "Facilitated diffusion",
+      "Pinocytosis",
+      "Passive diffusion"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q010",
+    "question": "When the rate of elimination of a drug remains constant irrespective of drug concentration, it is said to follow",
+    "options": [
+      "Zero order kinetics",
+      "First order kinetics",
+      "Exponential kinetics",
+      "Secretory kinetics"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q011",
+    "question": "Complete drug elimination occurs usually after",
+    "options": [
+      "2 half lives",
+      "3 half lives",
+      "5 half lives",
+      "10 half lives"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q012",
+    "question": "‘Hit and Run’ drugs are",
+    "options": [
+      "Whose plasma concentration cannot be measured",
+      "Whose effect lasts longer than the drug itself",
+      "Those with short life",
+      "Those withdrawn from market very fast"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q013",
+    "question": "The longest bone in the body is",
+    "options": [
+      "Humerus",
+      "Stapes",
+      "Tibia",
+      "Femur"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q014",
+    "question": "A drug which activates a receptor to produce effect in the opposite direction to that of a well-recognized agonist is called",
+    "options": [
+      "Partial agonist",
+      "Antagonist",
+      "Super Agonist",
+      "Inverse agonist"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q015",
+    "question": "Which is the largest organ in the body?",
+    "options": [
+      "Skin",
+      "Brain",
+      "Heart",
+      "Kidney"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q016",
+    "question": "Cardiac output is the product of heart rate and",
+    "options": [
+      "Respiratory rate",
+      "Minute ventilation",
+      "Stroke volume",
+      "Peripheral resistance"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q017",
+    "question": "Pericardium refers to area overlying the",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Stomach",
+      "Urinary bladder"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q018",
+    "question": "The route of administration for insulin is",
+    "options": [
+      "Subcutaneous",
+      "Intramuscular",
+      "Intravenous",
+      "All of the above"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q019",
+    "question": "The cells in the blood responsible for carrying oxygen is",
+    "options": [
+      "WBC",
+      "RBC",
+      "Lymphocyte",
+      "Platelet"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q020",
+    "question": "Energy from food sources is measured usually in",
+    "options": [
+      "Dyne",
+      "Calorie",
+      "Pascals",
+      "Horsepower"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q021",
+    "question": "The acid normally secreted in the human stomach is",
+    "options": [
+      "Nitric acid",
+      "Sulphuric acid",
+      "Hydrochloric acid",
+      "Citric acid"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q022",
+    "question": "Who first showed the complete pathway of blood circulation?",
+    "options": [
+      "William Harvey",
+      "Vesuvius",
+      "Hippocrates",
+      "Alexander Fleming"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q023",
+    "question": "The number of chambers in a normal human heart is",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q024",
+    "question": "Human cells have ______ pairs of sex chromosomes.",
+    "options": [
+      "1",
+      "2",
+      "23",
+      "46"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q025",
+    "question": "The organ predominantly involved in metabolism of drugs is",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Stomach",
+      "Spleen"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q026",
+    "question": "When a drug binds to a silent receptor",
+    "options": [
+      "No pharmacological response occurs",
+      "The drug gets metabolized",
+      "Neuroendocrine hormones get released",
+      "DNA changes occur"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q027",
+    "question": "Median lethal dose/median effective dose of a drug is called",
+    "options": [
+      "Therapeutic subsistence",
+      "Therapeutic index",
+      "Therapeutic window",
+      "Therapeutic efficacy"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q028",
+    "question": "The anti-diabetic drug recently in the news for its probable relation to bladder cancer is",
+    "options": [
+      "Nateglinide",
+      "Sitagliptin",
+      "Pioglitazone",
+      "Metformin"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q029",
+    "question": "Inert substance given in the garb of medicine is called",
+    "options": [
+      "Placebo",
+      "Vaccine",
+      "Toxoid",
+      "Multivitamin"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q030",
+    "question": "The structure carrying deoxygenated blood is",
+    "options": [
+      "Artery",
+      "Lymphatic",
+      "Vein",
+      "Nerve"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q031",
+    "question": "Which of these Vitamins is water soluble?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin C"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q032",
+    "question": "Deficiency of which vitamin causes Pellagra?",
+    "options": [
+      "Riboflavin",
+      "Niacin",
+      "Biotin",
+      "Methylcobalamin"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q033",
+    "question": "Which of these drugs is used as a diuretic?",
+    "options": [
+      "Frusemide",
+      "Calutamide",
+      "Chlorpropamide",
+      "Cyclophosphamide"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q034",
+    "question": "Which of these is an anticancer drug?",
+    "options": [
+      "Ticarcillin",
+      "Tigecycline",
+      "Teicoplanin",
+      "Carboplatin"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q035",
+    "question": "Which of the following drugs is likely to be tapered and stopped?",
+    "options": [
+      "Amoxycillin",
+      "DEC",
+      "Prednisolone",
+      "Meropenem"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q036",
+    "question": "Wilson’s disease is associated with metabolism of",
+    "options": [
+      "Iron",
+      "Zinc",
+      "Aluminium",
+      "Copper"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q037",
+    "question": "Antidote for heparin is",
+    "options": [
+      "N-acetylcysteine",
+      "Glucagon",
+      "Methylene blue",
+      "Protamine"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q038",
+    "question": "Which of the following is used as an antiepileptic drug?",
+    "options": [
+      "Phenobarbitone",
+      "Penicillin",
+      "Varenicline",
+      "Acarbose"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q039",
+    "question": "Which of the antihypertensive drugs has dry cough as a side effect?",
+    "options": [
+      "Ganglion blockers",
+      "Calcium channel blockers",
+      "Diuretics",
+      "ACE inhibitors"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q040",
+    "question": "Which of these drugs is likely to be used weekly once?",
+    "options": [
+      "Amoxycillin",
+      "Methotrexate",
+      "Atorvastatin",
+      "Sulphasalazine"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q041",
+    "question": "Which of the following is an antifungal agent?",
+    "options": [
+      "Ciprofloxacin",
+      "Ornidazole",
+      "Miconazole",
+      "Albendazole"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q042",
+    "question": "The normal fasting blood sugar value is around",
+    "options": [
+      "50 mg/dL",
+      "100 mg/dL",
+      "150 mg/dL",
+      "200 mg/dL"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q043",
+    "question": "Chemical energy at the cellular level is in the form of",
+    "options": [
+      "NADH",
+      "ATP",
+      "NADPH",
+      "SOD"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q044",
+    "question": "Glycolysis results in conversion of glucose to",
+    "options": [
+      "Fructose",
+      "Glyceraldehyde",
+      "Pyruvate",
+      "Acetoacetate"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q045",
+    "question": "Which material is predominantly used in the sphygmomanometer?",
+    "options": [
+      "Selenium",
+      "Silver",
+      "Mercury",
+      "Cyanide"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q046",
+    "question": "Which of the following effects is not mediated by Histamine type 2 receptors?",
+    "options": [
+      "Vasodilatation",
+      "Bronchoconstriction",
+      "Gastric acid secretion",
+      "Tachycardia"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q047",
+    "question": "Which of the following drugs cannot be given as intravenous bolus shot?",
+    "options": [
+      "Potassium chloride",
+      "Adenosine",
+      "Insulin",
+      "Dextrose"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q048",
+    "question": "Which of these drugs is most likely to be used by a cardiologist?",
+    "options": [
+      "Streptokinase",
+      "Anti-venom",
+      "Doxycycline",
+      "Sevelamer"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q049",
+    "question": "Which of these diseases is a psychiatric disease?",
+    "options": [
+      "Schizophrenia",
+      "Glaucoma",
+      "Prolapse",
+      "Scurvy"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q050",
+    "question": "Deficiency of what causes rickets?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Iron",
+      "Copper"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q051",
+    "question": "Which of these is not a HMG-CoA reductase inhibitor?",
+    "options": [
+      "Lovastatin",
+      "Simvastatin",
+      "Pitavastatin",
+      "Atorvastatin"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q052",
+    "question": "Normal WBC count range in the blood is",
+    "options": [
+      "1.5 lakh to 4 lakh/cu.mm",
+      "4000-10000/cu.mm",
+      "4.5 million to 5.5 million/cu.mm",
+      "100-400/cu.mm"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q053",
+    "question": "The hardest substance in the human body is",
+    "options": [
+      "Bone",
+      "Cartilage",
+      "Dentine",
+      "Ligament"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q054",
+    "question": "The nasogastric tube used for enteral feeding is called",
+    "options": [
+      "Steven’s tube",
+      "Sengstaken blackmore tube",
+      "Ryle’s tube",
+      "Foley’s tube"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q055",
+    "question": "The best treatment modality for uncomplicated non-infective diarrhea is",
+    "options": [
+      "Antibiotics",
+      "Loperamide",
+      "Ranitidine",
+      "ORS"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q056",
+    "question": "Rods and cones are part of",
+    "options": [
+      "Inner ear",
+      "Liver",
+      "Breast",
+      "Eye"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q057",
+    "question": "Which of the following is not used sublingually?",
+    "options": [
+      "Isosorbide dinitrate",
+      "Nifedepine",
+      "Nitrofurantoin",
+      "Nitroglycerine"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q058",
+    "question": "Laplace’s law is followed by all except",
+    "options": [
+      "Brain",
+      "Heart",
+      "Urinary bladder",
+      "Stomach"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q059",
+    "question": "Which of the following organs in the human body is gender-specific?",
+    "options": [
+      "Spleen",
+      "Prostate",
+      "Lingula",
+      "Pinna"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q060",
+    "question": "Which of the following structures in the human body is not gender-specific?",
+    "options": [
+      "Seminal vesicle",
+      "Fimbria",
+      "Left atrium",
+      "Cowper’s gland"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q061",
+    "question": "Tympanic membrane is a part of",
+    "options": [
+      "Ear",
+      "Diaphragm",
+      "Heart",
+      "Appendix"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q062",
+    "question": "The total volume of blood in the human body is around",
+    "options": [
+      "1 litre",
+      "3 litres",
+      "5 litres",
+      "7 litres"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q063",
+    "question": "Which of the following anti-hypertensive drugs is not safe in pregnancy?",
+    "options": [
+      "Ramipril",
+      "Atenolol",
+      "Methyldopa",
+      "Hydralazine"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q064",
+    "question": "Proprietary name of a drug in drug nomenclature refers to",
+    "options": [
+      "Chemical name",
+      "Generic name",
+      "Brand name",
+      "Scientific body name"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q065",
+    "question": "All these drugs are ineffective orally due to liver metabolism except",
+    "options": [
+      "Testosterone",
+      "Insulin",
+      "Lidocaine",
+      "NTG"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q066",
+    "question": "Bioavailability of a drug by which route reaches 100%?",
+    "options": [
+      "Oral",
+      "IV",
+      "Nasal",
+      "Topical"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q067",
+    "question": "Knee cap is the common name for",
+    "options": [
+      "Patella",
+      "Fibula",
+      "Scaphoid",
+      "Femur"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q068",
+    "question": "The RNA contains all except",
+    "options": [
+      "Thymine",
+      "Uracil",
+      "Adenine",
+      "Guanine"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q069",
+    "question": "Goitre is a condition affecting the",
+    "options": [
+      "Lower limb",
+      "Scrotum",
+      "Thyroid",
+      "Nasal cavity"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q070",
+    "question": "Which of these structures in the body is unpaired?",
+    "options": [
+      "Ureter",
+      "Optic nerve",
+      "Spleen",
+      "Stapedius"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q071",
+    "question": "A shop keeper purchased 10 kg of rice and 20 kg of sugar at Rs. 75 and Rs. 85 per kg respectively. On selling, he gained 20% on rice and 10% on sugar. What was the total sale price?",
+    "options": [
+      "Rs. 2,695",
+      "Rs. 2,770",
+      "Rs. 2,800",
+      "Rs. 2,750"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q072",
+    "question": "Yellow fever is mainly transmitted among humans by",
+    "options": [
+      "Female mosquito bite",
+      "Male mosquito bite",
+      "Water",
+      "Air"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q073",
+    "question": "Which one does not belong to the group?",
+    "options": [
+      "Zee",
+      "Screen",
+      "Colors",
+      "Sony"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q074",
+    "question": "A path of 2.5 m width surrounds a rectangular garden of length 10 m and breadth 8 m. Area of the garden, inclusive of the path is",
+    "options": [
+      "130.25 sq.m",
+      "131.25 sq.m",
+      "195.00 sq.m",
+      "132.50 sq.m"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q075",
+    "question": "Find the similarity in the following: Leopard, Tiger, Jaguar, Lion",
+    "options": [
+      "All of them are found in India.",
+      "All of them belong to the cat family.",
+      "All of their young ones are called kittens.",
+      "There is no similarity."
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q076",
+    "question": "The end of British rule in India came in the year",
+    "options": [
+      "1946",
+      "1947",
+      "1948",
+      "1950"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q077",
+    "question": "A trader bought 10 kg of tea at Rs. 400 per kg. He sold half the quantity at 20% loss and remaining at 10% profit. What was his net profit or loss in percentage?",
+    "options": [
+      "5% loss",
+      "5% gain",
+      "10% loss",
+      "10% gain"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q078",
+    "question": "The Victoria Falls are on the river",
+    "options": [
+      "Niger",
+      "Congo",
+      "Zambezi",
+      "Orange"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q079",
+    "question": "What happens in an oxidation reaction?",
+    "options": [
+      "Protons are lost",
+      "Electrons are lost",
+      "Neutrons are lost",
+      "Electrons are gained"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q080",
+    "question": "Who was the first Chairman of ISRO?",
+    "options": [
+      "Kasturirangan",
+      "Vikram Sarabhai",
+      "Homi K. Bhabha",
+      "C. V. Raman"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q081",
+    "question": "Find the odd statement out in relation to firewall",
+    "options": [
+      "Firewall can be a software.",
+      "Firewall can be a hardware.",
+      "Firewall can be a combination of software & hardware.",
+      "Firewall protects computer from fire."
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q082",
+    "question": "An article was sold for Rs. 2100 at a profit of 25%. What is its cost price?",
+    "options": [
+      "Rs. 1,620",
+      "Rs. 1,640",
+      "Rs. 1,660",
+      "Rs. 1,680"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q083",
+    "question": "In a certain code, 327 means ‘don’t cut tree’, 635 means ‘plant one tree’, 138 means ‘tree gives shade’ and 4953 means ‘we must plant tree’. Which digit represents ‘shade’?",
+    "options": [
+      "1",
+      "4",
+      "8",
+      "Cannot be determined"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q084",
+    "question": "An electric motor converts",
+    "options": [
+      "Mechanical energy into electrical energy.",
+      "Thermal energy into electrical energy.",
+      "Electrical energy into mechanical energy.",
+      "Radiant energy into electrical energy."
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q085",
+    "question": "When the car takes a bend, the force that pushes us to the outside of the curve is the",
+    "options": [
+      "Centripetal Force",
+      "Centrifugal Force",
+      "Frictional Force",
+      "Tension Force"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q086",
+    "question": "The Prime Minister is the ex-officio President of",
+    "options": [
+      "CLRI",
+      "CSIR",
+      "ISRO",
+      "DRDO"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q087",
+    "question": "Indian sports person Gagan Narang is associated with",
+    "options": [
+      "Archery",
+      "Air rifle shooting",
+      "Wrestling",
+      "Badminton"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q088",
+    "question": "Which number will fit in ‘?’ place in the following series 12, 23, 45, 89, ?",
+    "options": [
+      "175",
+      "176",
+      "177",
+      "178"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q089",
+    "question": "Microsoft Corporation was founded in",
+    "options": [
+      "1979",
+      "1981",
+      "1975",
+      "1965"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q090",
+    "question": "If F = 6, THE = 33 then WOMAN = ?",
+    "options": [
+      "64",
+      "65",
+      "66",
+      "67"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q091",
+    "question": "If the mathematical operators, ‘x’ means ‘+’, ‘+’ means ‘x’, ‘+’ means ‘-’, and ‘-’ means ‘÷’, then 22+36-12x6+4 = ?",
+    "options": [
+      "-21",
+      "43",
+      "68",
+      "53"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q092",
+    "question": "Which organ is not a gland?",
+    "options": [
+      "Adrenal",
+      "Liver",
+      "Pituitary",
+      "Gallbladder"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q093",
+    "question": "Who was conferred the Arjuna Award for wrestling in 2023?",
+    "options": [
+      "Harmanpreet",
+      "Mohd. Shami",
+      "Rishabh Pant",
+      "Rohit Sharma"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q094",
+    "question": "A tap can fill a tank in 20 minutes. If a leakage is capable of emptying the tank in 60 minutes, the tank will be filled in",
+    "options": [
+      "1 hour",
+      "45 minutes",
+      "30 minutes",
+      "50 minutes"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q095",
+    "question": "Parliament House in Delhi was constructed during",
+    "options": [
+      "1895 - 1900",
+      "1901 - 1909",
+      "1921 - 1927",
+      "1931 - 1935"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q096",
+    "question": "Anaemia condition is due to",
+    "options": [
+      "Deficiency of platelets.",
+      "Deficiency of RBC.",
+      "Deficiency of WBC.",
+      "Deficiency of oxidants."
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q097",
+    "question": "A bus runs at 50 kmph. If the speed is increased by 10 kmph, it will cover 20 km more in the same time. Find the actual distance covered.",
+    "options": [
+      "100 km",
+      "150 km",
+      "200 km",
+      "250 km"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q098",
+    "question": "The Hornbill festival is celebrated in",
+    "options": [
+      "Arunachal Pradesh",
+      "Nagaland",
+      "Odisha",
+      "West Bengal"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q099",
+    "question": "Four pairs of words are given. Find the odd one out.",
+    "options": [
+      "Rhombus : Four-sided polygon",
+      "Nonagon : Seven-sided polygon",
+      "Octagon : Eight-sided polygon",
+      "Hexagon : Six-sided polygon"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 6"
+  },
+  {
+    "id": "q100",
+    "question": "Find the 4th proportional to 9, 17 and 27.",
+    "options": [
+      "57",
+      "48",
+      "51",
+      "53"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 6"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q001",
+    "question": "Lozenges are solid dosage form intended for",
+    "options": [
+      "Faster action",
+      "Slow dissolution",
+      "Slow disintegration",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q002",
+    "question": "Implants are designed for:",
+    "options": [
+      "Prolonged action",
+      "Fast action",
+      "Increase efficacy",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q003",
+    "question": "International system of Units (SI) includes:",
+    "options": [
+      "Metric system",
+      "Avoirdupois system",
+      "Apothecaries system",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q004",
+    "question": "1%w/v dextrose means:",
+    "options": [
+      "1 gram dextrose in 100 ml of product",
+      "1 gram dextrose in 100 gram of product",
+      "1 mole of dextrose in 100 ml of product",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q005",
+    "question": "1 tumblerful is equivalent to:",
+    "options": [
+      "200 ml",
+      "240 ml or 8 fluid ounce",
+      "240 ml or 10 fluid ounce",
+      "250 ml or 8 fluid ounce"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q006",
+    "question": "Micrometrics deals with study of:",
+    "options": [
+      "Powders",
+      "Microspores",
+      "Metric system of measurement",
+      "Small particles"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q007",
+    "question": "The extraction process, in which crude is kept in contact with menstruum is called:",
+    "options": [
+      "Infusion",
+      "Maceration",
+      "Percolation",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q008",
+    "question": "Aqueous thermolabile solution is concentrated by a process:",
+    "options": [
+      "Simple distillation",
+      "Distillation under reduced pressure",
+      "Evaporation under reduced pressure",
+      "Simple evaporation"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q009",
+    "question": "Antibiotics are preferably dried by:",
+    "options": [
+      "Fluidised bed drier",
+      "By evaporation under reduced pressure",
+      "Vacuum drier",
+      "Tray drier"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q010",
+    "question": "Sulpha powders are sterilised by:",
+    "options": [
+      "Hot air oven",
+      "Autoclave",
+      "Radiation",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q011",
+    "question": "Enteric coating is done when:",
+    "options": [
+      "Active Ingredients is unstable in acid",
+      "Active ingredients is unstable in base",
+      "Active ingredients causes irritation in intestine",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q012",
+    "question": "If average weight of tablet 300 mg, then allowed weight variation is:",
+    "options": [
+      "10%",
+      "7.5%",
+      "5%",
+      "2%"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q013",
+    "question": "Shellac is used for sugar coating for",
+    "options": [
+      "sealing",
+      "Sub-coating",
+      "Polishing",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q014",
+    "question": "Which is the largest size of capsule?",
+    "options": [
+      "000",
+      "00",
+      "1",
+      "5"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q015",
+    "question": "BCG vaccine contains:",
+    "options": [
+      "Killed bacterial suspension",
+      "Alive bacterial suspension",
+      "Attenuated toxoid",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q016",
+    "question": "First Indian Pharmacopoeia was published in:",
+    "options": [
+      "1955",
+      "1966",
+      "1976",
+      "1980"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q017",
+    "question": "Sodium bicarbonate is used as:",
+    "options": [
+      "Electrolyte replenisher",
+      "Systemic alkaliser",
+      "Antacid",
+      "All of the above"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q018",
+    "question": "Aluminium hydroxide gel is I.P. contain:",
+    "options": [
+      "Alumium hydroxide",
+      "Aluminium oxide",
+      "Hydrated aluminium oxide",
+      "Hydrated aluminum oxide with little aluminum carbonate/bicarbonate"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q019",
+    "question": "Green vitriol",
+    "options": [
+      "Copper sulphate",
+      "Magnesium sulphate",
+      "Ferrous sulphate",
+      "Sodium sulphate"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q020",
+    "question": "Zinc Chloride is used as",
+    "options": [
+      "Antibacterial",
+      "Astringent",
+      "Preservative",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q021",
+    "question": "Lugol’s solution is:",
+    "options": [
+      "Weak iodine solution",
+      "Aqueous iodine solution",
+      "Strong iodine solution",
+      "None of the above"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q022",
+    "question": "Calomel is:",
+    "options": [
+      "Magnesium chloride",
+      "Murexide",
+      "Mercurous chloride",
+      "Calamine"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q023",
+    "question": "Which of these is used as preservative ?",
+    "options": [
+      "Sodium benzoate",
+      "Sodium salicylate",
+      "Sodium metashulphite",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q024",
+    "question": "Which one of these acid is used in the treatment of skin condition?",
+    "options": [
+      "Benzoic acid",
+      "Propionic acid",
+      "Acetic acid",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q025",
+    "question": "Which one of these is antiemetic agent",
+    "options": [
+      "Ammonium chloride",
+      "Apomorphine",
+      "Dimenhydrinate",
+      "Diphenoxylate"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q026",
+    "question": "One of these is criteria for purity of Pellylliums",
+    "options": [
+      "Adsorbent power",
+      "Swelling factor",
+      "Colour development",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q027",
+    "question": "Which one of these reagent is used to indicate the presence of iodine",
+    "options": [
+      "Potassium chlorate",
+      "Potassium bismuth Iodide",
+      "Iodine in potassium iodide solution",
+      "Picric acid"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q028",
+    "question": "Vaska is used as:",
+    "options": [
+      "Expectorant",
+      "Sedative",
+      "Stimulant",
+      "Cardiac tonic"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q029",
+    "question": "Shark liver pill contains:",
+    "options": [
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin A & D",
+      "Vitamin E"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q030",
+    "question": "Penicillin is discovered by:",
+    "options": [
+      "Robert Koch",
+      "Robert Brown",
+      "Alexander Flemming",
+      "Paul Ehrlich"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q031",
+    "question": "Which one of these is a oleogum resin ?",
+    "options": [
+      "Aloe",
+      "Colophon",
+      "Asafoetida",
+      "Catechu"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q032",
+    "question": "Ruthenium red gives pink or red colour",
+    "options": [
+      "Gaur gum",
+      "Agar",
+      "Plantago",
+      "Gelatin"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q033",
+    "question": "Which one of these is a quinoline alkaloids ?",
+    "options": [
+      "Ergotamine",
+      "Scopolamine",
+      "Cinchonamine",
+      "Reserpine"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q034",
+    "question": "Ma-Huang is a synonym for:",
+    "options": [
+      "Ephedra",
+      "Cinnamon",
+      "Ipecac",
+      "Quillaia"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q035",
+    "question": "Which one these is used in gout ?",
+    "options": [
+      "Colchicum",
+      "Ipecac",
+      "Vinca",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q036",
+    "question": "Beta ionone (starting material for vitamin A) is prepared from terpenoid:",
+    "options": [
+      "Limonene",
+      "Carvone",
+      "Citral",
+      "Eugenol"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q037",
+    "question": "Bufadienolides are present in:",
+    "options": [
+      "Squill",
+      "Digitalis",
+      "Quassia",
+      "Allium"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q038",
+    "question": "Which one of these alkaloids does not contain nitrogen in the ring system",
+    "options": [
+      "Ephedrine",
+      "Quinine",
+      "Quinidine",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q039",
+    "question": "Diosgenin is a:",
+    "options": [
+      "Alkaloid obtained from dioscorea",
+      "Glycoside obtained from dioscorea",
+      "Protein obtained from dioscorea",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q040",
+    "question": "Alanine is a:",
+    "options": [
+      "Essential amino acid",
+      "Non-essential amino acid",
+      "Both essential and non-essential amino acid",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q041",
+    "question": "The normal level of ketone bodies in the blood is:",
+    "options": [
+      "10 mg/dl",
+      "40 mg/dl",
+      "15 mg/dl",
+      "1 mg/dl"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q042",
+    "question": "Cholesterol consists of:",
+    "options": [
+      "27 carbon atoms",
+      "30 carbon atoms",
+      "14 carbon atoms",
+      "35 carbon atoms"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q043",
+    "question": "Normal value for glucose in the blood is:",
+    "options": [
+      "250 mg",
+      "200 mg",
+      "100-200 mg",
+      "80-120 mg"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q044",
+    "question": "Mast cell are responsible for release of:",
+    "options": [
+      "Serotonin",
+      "Keratin",
+      "Fatty acids",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q045",
+    "question": "The normal erythrocyte count is:",
+    "options": [
+      "3.5 millions/mm³",
+      "5.5 millions/mm³",
+      "6.5 millions/mm³",
+      "7.5 millions/mm³"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q046",
+    "question": "Human heart is:",
+    "options": [
+      "4 chambered",
+      "3 chambered",
+      "2 chambered",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q047",
+    "question": "Purkinje fibres is present in:",
+    "options": [
+      "Kidney",
+      "Heart",
+      "Spleen",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q048",
+    "question": "Blood is supplied supplied to the heart through:",
+    "options": [
+      "Carotid artery",
+      "Coronary artery",
+      "Sublingual artery",
+      "Pulmonary artery"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q049",
+    "question": "Polyurea is a condition characterized by:",
+    "options": [
+      "Increase urine formation",
+      "Appearance of glucose in urine",
+      "Appearance of protein in urine",
+      "All of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q050",
+    "question": "Melatonin is secreted by:",
+    "options": [
+      "Thymus gland",
+      "Adenophysis",
+      "Pineal gland",
+      "Adrenal gland"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q051",
+    "question": "The deposition of sodium urate crystals in joints leads to disease:",
+    "options": [
+      "Gout",
+      "Arthritis",
+      "Inflammation",
+      "Calculi"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q052",
+    "question": "Female sex hormone is:",
+    "options": [
+      "Stilbesterol",
+      "Oestradiol",
+      "Testosterone",
+      "Hydrocortisone"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q053",
+    "question": "In female ovulation take place in regular menstrual cycle on:",
+    "options": [
+      "14 days",
+      "16 days",
+      "20 days",
+      "18 days"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q054",
+    "question": "Spermatozoa are formed:",
+    "options": [
+      "Vasa deferens",
+      "Prostate gland",
+      "Seminal vesicles",
+      "None of the above"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q055",
+    "question": "Myopia is corrected by:",
+    "options": [
+      "Plane lens",
+      "Concave lens",
+      "Convex lens",
+      "Cylindrical lens"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q056",
+    "question": "Elisa test is used for diagnosis of:",
+    "options": [
+      "Tuberculosis",
+      "Typhoid",
+      "AIDS",
+      "Rabies"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q057",
+    "question": "A protozoal disease is",
+    "options": [
+      "Tetanus",
+      "Diptheria",
+      "Malaria",
+      "Diarrhoea"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q058",
+    "question": "Water borne disease is:",
+    "options": [
+      "Tuberculosis",
+      "Cholera",
+      "Measles",
+      "Influenza"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q059",
+    "question": "Saheli, oral contraceptive contains:",
+    "options": [
+      "Centchroman",
+      "Oestrogen",
+      "Progesterone",
+      "Oestrogen & progesterone"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q060",
+    "question": "Which one of these is sexually transmitted disease ?",
+    "options": [
+      "Malaria",
+      "Gonorrhoea",
+      "Cholera",
+      "Leprosy"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q061",
+    "question": "An example of non-communicable disease is:",
+    "options": [
+      "Cancer",
+      "Syphilis",
+      "Gonorrhoea",
+      "Tuberculosis"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q062",
+    "question": "Iodine deficiency disorder is:",
+    "options": [
+      "Gout",
+      "Goitre",
+      "Nightblindness",
+      "Inflammation"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q063",
+    "question": "Vitamin C deficiency causes disease:",
+    "options": [
+      "Beri-Beri",
+      "Scurvy",
+      "Nightblindness",
+      "Myxodema"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q064",
+    "question": "HIV is a:",
+    "options": [
+      "DNA virus",
+      "RNA virus",
+      "Paramyxo virus",
+      "Retrovirus"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q065",
+    "question": "Influenza spreads by:",
+    "options": [
+      "Faceal route",
+      "Droplet injection",
+      "Dust",
+      "Mother to foetus"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q066",
+    "question": "Simple syrup B.P.contains sugar :",
+    "options": [
+      "85%",
+      "60%",
+      "75%",
+      "50%"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q067",
+    "question": "Which one of these is anionic surfactants;",
+    "options": [
+      "Sodium lauryl sulphate",
+      "Glyceryl monostearate",
+      "Tetradecyl trimethyl ammonium bromide",
+      "Sorbitan monooleate"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q068",
+    "question": "Tween is a",
+    "options": [
+      "Hydrophilic surfactant",
+      "Hydrophobic",
+      "Preservative",
+      "Antioxidant"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q069",
+    "question": "In non-staining iodine ointment, which one of these ingredient is added to bind iodine:",
+    "options": [
+      "Arachis oil",
+      "Yellow soft paraffin",
+      "Methylsalicylate",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q070",
+    "question": "Handerson-Hasselbalch equation is related to:",
+    "options": [
+      "Buffer solution",
+      "Dissolution rate",
+      "Osmotic pressure",
+      "Absorption"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q071",
+    "question": "Which device converts digital signal into analog signal?",
+    "options": [
+      "WiFi",
+      "Modem",
+      "Port",
+      "USB"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q072",
+    "question": "Which is India’s longest river that does not flow into the sea?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Tapti",
+      "Kaveri"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q073",
+    "question": "What is the most cultivated crop in India?",
+    "options": [
+      "Ragi",
+      "Wheat",
+      "Corn",
+      "Rice"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q074",
+    "question": "In which city is the value of Gold determined?",
+    "options": [
+      "California",
+      "Sydney",
+      "Rome",
+      "London"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q075",
+    "question": "Which vitamin among the following is crucial for blood clotting?",
+    "options": [
+      "Vitamin K",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin E"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q076",
+    "question": "If the mathematical operators, ‘+’ and ‘×’ are interchanged, what will be the value of the equation 9+5=10−23×2",
+    "options": [
+      "3",
+      "2",
+      "-3",
+      "-5"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q077",
+    "question": "A wire is in the shape of a rectangle. Its length is 42.7m and breadth is 21.8m. If the same wire is rebent in the shape of a square, what will be the measure of the side of the square?",
+    "options": [
+      "16.125",
+      "32.25",
+      "11.35",
+      "22.70"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q078",
+    "question": "The President of India conferred the Swachh Survekshan Awards 2023 to",
+    "options": [
+      "Chennai",
+      "Indore and Surat",
+      "Ahmedabad",
+      "Mysore"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q079",
+    "question": "Which is the most peaceful country according to the 2023 Global Peace Index?",
+    "options": [
+      "Iceland",
+      "Bhutan",
+      "Austria",
+      "New Zealand"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q080",
+    "question": "Where did the Chipko movement begin?",
+    "options": [
+      "Rajasthan",
+      "Assam",
+      "Arunachal Pradesh",
+      "Mizoram"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q081",
+    "question": "Rearrange the jumbled letters to make a meaningful word and then select the one which is different.",
+    "options": [
+      "ORIN",
+      "NADS",
+      "POPCER",
+      "DLOOS"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q082",
+    "question": "Name the capital of Uganda?",
+    "options": [
+      "Mogadishu",
+      "Kampala",
+      "Lusaka",
+      "Bulenga"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q083",
+    "question": "What is Madhubani art?",
+    "options": [
+      "The art of Storytelling",
+      "The art of Gujarat",
+      "A folk art practiced in Bihar",
+      "The art of honey extraction"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q084",
+    "question": "What is ‘Planet Nine’?",
+    "options": [
+      "A planet in the Comet Galaxy",
+      "A planet in Andromeda Galaxy",
+      "A planet where the ‘Star Wars’ series took place",
+      "A large icy planet proposed in the outer Solar System"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q085",
+    "question": "Which is NOT an Operating System?",
+    "options": [
+      "OS X",
+      "Windows 7",
+      "DOS",
+      "C++"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q086",
+    "question": "What is the smallest number of 5 digits which is exactly divisible by 12, 24, 48, 60 and 96?",
+    "options": [
+      "10000",
+      "10024",
+      "10160",
+      "10080"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q087",
+    "question": "Find the cost in rupees for carpeting a room 65dm×30dm at Rs. 45 per sq.m",
+    "options": [
+      "877.50",
+      "87750",
+      "87.75",
+      "8775"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q088",
+    "question": "What is most common treatment for bacterial infections in humans?",
+    "options": [
+      "Aspirin",
+      "Antibodies",
+      "Antibiotics",
+      "Antigen"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q089",
+    "question": "The ratio of ages of Jai and Joy is 5:2. The sum of their ages is 63. After 9 years what will be the ratio of their ages?",
+    "options": [
+      "5:2",
+      "2:1",
+      "3:2",
+      "4:3"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q090",
+    "question": "By selling 90 chocolates for Rs. 160, a chocolate trader loses 20%. How many chocolates should he sell for Rs. 96 to make a profit of 20%?",
+    "options": [
+      "45",
+      "36",
+      "54",
+      "28"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q091",
+    "question": "What is an archipelago?",
+    "options": [
+      "Group, chain, or collection of Islands",
+      "The meeting of Land and Sea",
+      "An Architect’s paradise",
+      "A type of Church"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q092",
+    "question": "Who is Sabari Karthik?",
+    "options": [
+      "Indian karate player",
+      "Rugby player",
+      "Cricket Player",
+      "Kabaddi Player"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q093",
+    "question": "Which among the following is popularly called Laughing Gas?",
+    "options": [
+      "Nitric oxide",
+      "Nitrogen dioxide",
+      "Nitrous oxide",
+      "Nitrogen peroxide"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q094",
+    "question": "Four pairs of words are given. Find the odd one out.",
+    "options": [
+      "65th anniversary : Diamond Jubilee",
+      "50th anniversary : Golden Jubilee",
+      "40th anniversary : Ruby Jubilee",
+      "25th anniversary : Silver Jubilee"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q095",
+    "question": "Indian currency notes are printed in which place?",
+    "options": [
+      "New Delhi",
+      "Bombay",
+      "Nashik",
+      "Agra"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q096",
+    "question": "Mica is available abundantly in which state?",
+    "options": [
+      "West Bengal",
+      "Madhya Pradesh",
+      "Bihar",
+      "Goa"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q097",
+    "question": "If X = 24 and BE = 7, then RING = ?",
+    "options": [
+      "41",
+      "47",
+      "48",
+      "49"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q098",
+    "question": "The product of two consecutive odd numbers is 399. Find the lower of them.",
+    "options": [
+      "17",
+      "19",
+      "21",
+      "23"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q099",
+    "question": "Between which stations does India’s longest train run?",
+    "options": [
+      "Kanyakumari – Baramulla",
+      "Dibrugarh - Naliya",
+      "Dibrugarh - Kanyakumari",
+      "Thiruvananthapuram - New Delhi"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 03"
+  },
+  {
+    "id": "q100",
+    "question": "What is the Siberian ibex?",
+    "options": [
+      "Mountain Lions",
+      "Large and heavily built goats",
+      "Mountain Deer",
+      "A type of Horse"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 03"
+  }
+]

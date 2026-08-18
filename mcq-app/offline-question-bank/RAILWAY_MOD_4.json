@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q001",
+    "question": "Saccharin is sweeter than sucrose by",
+    "options": [
+      "50 times",
+      "100 times",
+      "500 times",
+      "1000 times"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q002",
+    "question": "How many millilitres of U-100 insulin should be used to obtain 40 units of insulin?",
+    "options": [
+      "40 ml",
+      "4 ml",
+      "0.4 ml",
+      "400 ml"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q003",
+    "question": "In coffee seed, caffeine is present as a salt of",
+    "options": [
+      "Chlorogenic acid",
+      "Lysergic acid",
+      "Nicotinic acid",
+      "Uric acid"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q004",
+    "question": "Prostaglandin analogues in ulcer therapy causes",
+    "options": [
+      "Diarrhoea",
+      "Abortion",
+      "Uterine bleeding",
+      "All of the above"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q005",
+    "question": "Oral hypoglycemic agent which is a Thiazolidinedione derivative is",
+    "options": [
+      "Repaglinide",
+      "Glipizide",
+      "Pioglitazone",
+      "Glimepiride"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q006",
+    "question": "BCG vaccine is",
+    "options": [
+      "Live attenuated viral vaccine",
+      "Live attenuated bacterial vaccine",
+      "Killed bacterial vaccine",
+      "Inactivated viral vaccine"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q007",
+    "question": "The Central Drugs Research Institute is situated at",
+    "options": [
+      "Kolkata",
+      "Kasauli",
+      "Izzat Nagar",
+      "Lucknow"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q008",
+    "question": "A receipt given by a seller to a buyer who has returned goods, which can be offset against future purchases",
+    "options": [
+      "Credit note",
+      "Invoice",
+      "Debit note",
+      "Bill"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q009",
+    "question": "Which of the following is not a macrolide antibiotic?",
+    "options": [
+      "Erythromycin",
+      "Spiramycin",
+      "Azithromycin",
+      "Vancomycin"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q010",
+    "question": "Morphine is present in",
+    "options": [
+      "Atropa belladonna",
+      "Papaver somniferum",
+      "Ricinus communis",
+      "Solanum nigrum"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q011",
+    "question": "Autoclaving of ampoules in a dye bath is for",
+    "options": [
+      "Clarity testing",
+      "Pyrogen testing",
+      "Leak testing",
+      "Sterility testing"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q012",
+    "question": "Anticancer drugs kill cancer cells by",
+    "options": [
+      "Zero order kinetics",
+      "Pseudo first order kinetics",
+      "First order kinetics",
+      "Second order kinetics"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q013",
+    "question": "Dopamine is degraded by",
+    "options": [
+      "MAO-A",
+      "MAO B",
+      "Both (a) and (b)",
+      "None of the above"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q014",
+    "question": "Tyndallization is the process of",
+    "options": [
+      "Sterilization by heating under pressure for 3 days",
+      "Sterilization by heating without pressure for 3 days",
+      "Sterilization by heating under pressure for 1 day",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q015",
+    "question": "Which of the following may cause cycloplegia when used topically in the eye?",
+    "options": [
+      "Cortisone",
+      "Physostigmine",
+      "Pilocarpine",
+      "Atropine"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q016",
+    "question": "Captopril exerts action by inhibiting conversion of",
+    "options": [
+      "Angiotensin I to II",
+      "Angiotensin II to I",
+      "Angiotensinogen to Angiotensin",
+      "Angiotensin II to Angiotensinogen"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q017",
+    "question": "The largest peak in a mass spectrum called as",
+    "options": [
+      "Parent peak",
+      "Daughter peak",
+      "Metastable peak",
+      "Base peak"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q018",
+    "question": "Killer Kiliani test is the identification test for",
+    "options": [
+      "Digitalis",
+      "Senna",
+      "Metformin",
+      "Rifampicin"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q019",
+    "question": "The storage form of Iron in the human body is",
+    "options": [
+      "Ferritin",
+      "Ferrous fumarate",
+      "Heme",
+      "Globulin"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q020",
+    "question": "Micrometrics refers to the study of",
+    "options": [
+      "Microscopes",
+      "Micro organisms",
+      "Metric system of measurement",
+      "Small particles"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q021",
+    "question": "How many half lives is required to disintegrate 90% of a drug?",
+    "options": [
+      "3",
+      "1",
+      "4",
+      "2"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q022",
+    "question": "A patient with Glucose 6 phosphate dehydrogenase deficiency if treated with Dapsone will develop",
+    "options": [
+      "Hemolytic anaemia",
+      "Pernicious anaemia",
+      "Diarrhoea",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q023",
+    "question": "Aztreonam is a",
+    "options": [
+      "Monobactin",
+      "Carbapenem",
+      "Betalactamase inhibitor",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q024",
+    "question": "DOTS refers to",
+    "options": [
+      "Divided Option Treatment System",
+      "Drug resistance Optimizing Treatment System",
+      "Directly Observed Treatment Short course",
+      "None of the above"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q025",
+    "question": "Sublingually used organic nitrate is",
+    "options": [
+      "Nitroglycerine",
+      "Isosorbide dinitrate",
+      "Isosorbide mononitrate",
+      "Both (a) and (b)"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q026",
+    "question": "Thromboxane is mainly synthesized by",
+    "options": [
+      "Lungs",
+      "Platelets",
+      "Pancreas",
+      "Endothelium"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q027",
+    "question": "The Wurster process can be used to",
+    "options": [
+      "Coat tablets",
+      "Determine the disintegration time",
+      "Gas sterilize parenteral solutions",
+      "Automatic filling of capsules"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q028",
+    "question": "Emulsions containing more than two phases are called as",
+    "options": [
+      "Mixed emulsion",
+      "Heterogeneous emulsion",
+      "Homogenized emulsion",
+      "Multiple emulsion"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q029",
+    "question": "The hypotensive effect of Clonidine is due to action on",
+    "options": [
+      "Alpha adrenergic receptor",
+      "Beta adrenergic receptor",
+      "H1 receptor",
+      "H2 receptor"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q030",
+    "question": "Antidiabetic agent of choice in diabetic ketoacidosis is",
+    "options": [
+      "Protamine Zinc Insulin",
+      "Isophane Insulin",
+      "Crystalline Insulin",
+      "Tolbutamide"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q031",
+    "question": "Black pepper consists of the dried unripe fruits of",
+    "options": [
+      "Piper betle",
+      "Piper cubeba",
+      "Piper longum",
+      "Piper nigrum"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q032",
+    "question": "Reddish brown colour of calamine is due to",
+    "options": [
+      "Zinc chloride",
+      "Ferric chloride",
+      "Ferric oxide",
+      "Potassium permanganate"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q033",
+    "question": "Disposable syringes are made of",
+    "options": [
+      "Polypropylene",
+      "Glass",
+      "Polytetrachloroethylene",
+      "None of the above"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q034",
+    "question": "Which of the following is a physical sunscreen?",
+    "options": [
+      "TiO2",
+      "Para aminobenzoic acid",
+      "Methyl salicylate",
+      "Silicone oil"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q035",
+    "question": "Seal coating is applied",
+    "options": [
+      "To build up the tablet size",
+      "To prevent moisture penetration into the tablet core",
+      "To round up the edges",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q036",
+    "question": "Which vitamin contain steroidal structure?",
+    "options": [
+      "Vitamin E",
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin C"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q037",
+    "question": "Endothelium dependent relaxing factor of blood",
+    "options": [
+      "Acetyl choline",
+      "Nor adrenaline",
+      "Nitric oxide",
+      "None of the above"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q038",
+    "question": "5HT3 antagonist used as anti-emetic agent",
+    "options": [
+      "Ondansetron",
+      "Domperidone",
+      "Cisapride",
+      "Both (a) and (b)"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q039",
+    "question": "All the following causes hyperglycemia except",
+    "options": [
+      "Streptozotocin",
+      "Diazoxide",
+      "Glucagon",
+      "Miglitol"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q040",
+    "question": "The breakdown of glucose to pyruvic acid is called",
+    "options": [
+      "Glycolysis",
+      "Gluconeogenesis",
+      "Glycogenolysis",
+      "TCA cycle"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q041",
+    "question": "Standard for Cosmetics is included in",
+    "options": [
+      "Schedule P",
+      "Schedule B",
+      "Schedule S",
+      "Schedule F"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q042",
+    "question": "Poorly manufactured tablets may have small pinholes on the surface This is called",
+    "options": [
+      "Mottling",
+      "Picking",
+      "Leaching",
+      "Cracking"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q043",
+    "question": "The term bioavailability refers to the",
+    "options": [
+      "Relationship between the physical and chemical properties of a drug and its systemic absorption",
+      "Movement of the drug into body tissues over time",
+      "Dissolution of a drug in the gastrointestinal tract",
+      "Measurement of the rate and amount of therapeutically active drug that reaches systemic circulation"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q044",
+    "question": "Selective inhibition of serotonin uptake is",
+    "options": [
+      "Desipramine",
+      "Fluoxetine",
+      "Maprotiline",
+      "Lobeline"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q045",
+    "question": "Largest organ in the body is",
+    "options": [
+      "Liver",
+      "Skin",
+      "Bone",
+      "Lungs"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q046",
+    "question": "Which one is the unit of wave number?",
+    "options": [
+      "Kaiser",
+      "Hertz",
+      "cms",
+      "cps"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q047",
+    "question": "Capacity-limited processes can be described by",
+    "options": [
+      "Lincar kinetics",
+      "Nonlinear kinetics",
+      "Michaelis Menten kinetics",
+      "Mixed kinetics"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q048",
+    "question": "The cytotoxic drug with maximum emetic activity is",
+    "options": [
+      "Cisplatin",
+      "Chlorambucil",
+      "Methotrexate",
+      "Busulphan"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q049",
+    "question": "Liver microsomal enzymes are stimulated by",
+    "options": [
+      "Cimetidine",
+      "Phenobarbitone",
+      "Procaine",
+      "Adrenaline"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q050",
+    "question": "Which one of the following is example of non ionic emulsifying agent?",
+    "options": [
+      "Yellow paraffin wax",
+      "Bees wax",
+      "Liquid paraffin",
+      "Spans"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q051",
+    "question": "Rotoweigh is used to measure",
+    "options": [
+      "Rotation speed of capsules",
+      "Weight of capsules",
+      "Sorting speed of capsules",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q052",
+    "question": "Solid Fat Index (SFI) is determined by",
+    "options": [
+      "Potentiometry",
+      "Amperometric titration",
+      "Voltametry",
+      "Dilatometry"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q053",
+    "question": "Ergotoxine contains",
+    "options": [
+      "Ergocryptine",
+      "Ergocristine",
+      "Ergocornine",
+      "All of the above"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q054",
+    "question": "The particles which are deeply bonded, settle rapidly, easily redispersible are known as",
+    "options": [
+      "Coagules",
+      "Defloccules",
+      "Floccules",
+      "Sediments"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q055",
+    "question": "Nux vomica seeds contain",
+    "options": [
+      "Unicellular lining covering trichomes",
+      "Unicellular conical covering trichomes",
+      "Unicellular biseriate head",
+      "Multicellular unbranched trichomes"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q056",
+    "question": "The active metabolite of Diazepam",
+    "options": [
+      "Nitrazepam",
+      "Nordiazepam",
+      "Des methyl flurazepam",
+      "None of the above"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q057",
+    "question": "NSAIDs produce ulcerogenic actions because",
+    "options": [
+      "They decrease acid secretion in stomach",
+      "They increase mucus secretion in stomach",
+      "They increase mucosal blood flow in stomach",
+      "None of the above"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q058",
+    "question": "End product of Purine catabolism in man",
+    "options": [
+      "Allantoin",
+      "Inosine",
+      "Uric acid",
+      "Xanthine"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q059",
+    "question": "Asafoetida is obtained from",
+    "options": [
+      "Afghanistan",
+      "Spain",
+      "Burma",
+      "Malaysia"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q060",
+    "question": "Liquid paraffin is of",
+    "options": [
+      "Animal origin",
+      "Mineral origin",
+      "Synthetic origin",
+      "Semisynthetic origin"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q061",
+    "question": "The term MDT (Multi Drug Therapy) is related to",
+    "options": [
+      "Leprosy",
+      "Tuberculosis",
+      "Amoebiasis",
+      "Giardiasis"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q062",
+    "question": "Dihydropyridine ring containing Calcium channel blocker is",
+    "options": [
+      "Verapamil",
+      "Diltiazem",
+      "Nifedipine",
+      "Losartan"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q063",
+    "question": "To prevent INH induced neurotoxicity, is given along with it",
+    "options": [
+      "Pyridoxine",
+      "Niacin",
+      "Cyanocobalamine",
+      "Riboflavin"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q064",
+    "question": "Endotoxin is produced by the following bacteria except",
+    "options": [
+      "Salmonella typhi",
+      "Bordetella pertussis",
+      "Yersinia pestis",
+      "Clostridium tetani"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q065",
+    "question": "The drug Amikacin is derived from",
+    "options": [
+      "Kanamycin",
+      "Sisomicin",
+      "Gentamicin",
+      "Neomycin"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q066",
+    "question": "The term Ampulum denotes",
+    "options": [
+      "Tablespoonful",
+      "Teaspoonful",
+      "Dessertspoonful",
+      "Wineglassful"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q067",
+    "question": "Bile is produced by",
+    "options": [
+      "Gallbladder",
+      "Liver",
+      "Pancreas",
+      "Intestine"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q068",
+    "question": "Morphine does not cause",
+    "options": [
+      "Constriction of pupil",
+      "CNS depression",
+      "Respiratory depression",
+      "Diarrhoea"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q069",
+    "question": "Barrier creams are used to protect the skin from",
+    "options": [
+      "Sunlight injury",
+      "Microorganisms",
+      "Viral infections",
+      "Industrial chemicals and UV rays"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q070",
+    "question": "Epinephrine is added to local anaesthetics to",
+    "options": [
+      "Cause haemostasis",
+      "Prolong the action of the drug",
+      "Stimulate healing of wound",
+      "Decrease side effects"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q071",
+    "question": "Cost price of 25 chairs equals the selling price of 20 chairs. Find the profit %.",
+    "options": [
+      "20%",
+      "33%",
+      "25%",
+      "12.5%"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q072",
+    "question": "A trader marks his goods at 20% above cost price. If he allows a discount of 5% what is his final profit%?",
+    "options": [
+      "12%",
+      "14%",
+      "15%",
+      "18%"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q073",
+    "question": "What is Swadeshi?",
+    "options": [
+      "Made in India, from materials that have also been produced in India",
+      "Made in Foreign Lands from materials that are foreign",
+      "A charkha that is used to spin cotton wool",
+      "A Country Flag that is made of Cotton"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q074",
+    "question": "Which among the following happens in an oxidation reaction?",
+    "options": [
+      "Electrons are gained",
+      "Electrons are lost",
+      "Protons are gained",
+      "Protons are lost"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q075",
+    "question": "Where is the Masai Mara National Reserve?",
+    "options": [
+      "Mali",
+      "Kenya",
+      "Gabon",
+      "Zambia"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q076",
+    "question": "What is Sepak Takraw?",
+    "options": [
+      "A Bird",
+      "An ancient hunting team in Malaysia",
+      "Kick Volleyball",
+      "A Type of Combat Flight"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q077",
+    "question": "The Panchatantra fables are thought to be composed by",
+    "options": [
+      "Mullah Nasruddin",
+      "Vishnu Sharma",
+      "King Sudhrashan",
+      "Tenali Raman"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q078",
+    "question": "What was the code name of the nuclear tests conducted by India in Pokhran in 1998?",
+    "options": [
+      "Operation Desert Storm",
+      "Operation Vijay",
+      "Operation Shakti",
+      "Operation Kaboom"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q079",
+    "question": "Kitty said, “Uthara is one of the two daughters of my mother’s brother’s wife”. How is Kitty’s mother related to Uthara’s sister?",
+    "options": [
+      "Maternal Aunt",
+      "Mother",
+      "Grandmother",
+      "Sister"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q080",
+    "question": "One angle of a triangle is 55°. If the other two angles are in the ratio 9:16, find the angles?",
+    "options": [
+      "65° and 115°",
+      "90° and 160°",
+      "55° and 165°",
+      "45° and 80°"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q081",
+    "question": "Which contemporary painter made a series of paintings on Mahatma Gandhi?",
+    "options": [
+      "Amrita Shergill",
+      "Ram Kinkar",
+      "M.F. Hussain",
+      "Atul Dodiya"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q082",
+    "question": "What does “Satyameva Jayate” mean?",
+    "options": [
+      "Truth alone triumphs",
+      "True Faith is Truth",
+      "Truth is Divine",
+      "Truth is a Treasure"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q083",
+    "question": "Malé is the capital of which Country?",
+    "options": [
+      "Mauritius",
+      "Maldives",
+      "Malaysia",
+      "Lakshadweep"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q084",
+    "question": "Select the alternative that does not have a similar relationship as the given pair Forward: Backward",
+    "options": [
+      "Hope: Despair",
+      "Love: Hate",
+      "Anger: Wrath",
+      "Light: Dark"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q085",
+    "question": "Zero degree centigrade is equal to what degree Fahrenheit?",
+    "options": [
+      "100°F",
+      "30°F",
+      "34°F",
+      "32°F"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q086",
+    "question": "If SHELF is FURYS, then ZEBRA is",
+    "options": [
+      "NRMEO",
+      "MRNEO",
+      "NROEM",
+      "MREON"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q087",
+    "question": "What is the normal resting heart rate range for adults (beats/min)?",
+    "options": [
+      "60 to 100",
+      "50 to 80",
+      "120 to 180",
+      "75 to 120"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q088",
+    "question": "Q's father is B's son-in-law. C is Q's sister and the daughter of P. P is the maternal aunt of D. How is D related to B?",
+    "options": [
+      "Son",
+      "Daughter",
+      "Grandson",
+      "Granddaughter"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q089",
+    "question": "Who was the first woman to reach summit of Mt. Everest?",
+    "options": [
+      "Bachendri Pal",
+      "Junko Tabei",
+      "Arunima Sinha",
+      "Pemnata Agarwal"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q090",
+    "question": "6 carpenters make 96 windows in 16 days. If 8 carpenters work for 4 days how many windows will they make?",
+    "options": [
+      "16",
+      "28",
+      "36",
+      "32"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q091",
+    "question": "What is Makar Sankranti?",
+    "options": [
+      "Solar Eclipse",
+      "Lunar Eclipse",
+      "Kite Festival",
+      "Puppet Show"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q092",
+    "question": "Find the missing (?) in the series AIQ, BJR, CKS, DLT, ?...",
+    "options": [
+      "ENU",
+      "EMV",
+      "ENV",
+      "EMU"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q093",
+    "question": "Sanjay and Jacob start running in opposite directions from the same point at speeds of 7m/s and 5m/s. After 42 minutes, how far would they be from each other?",
+    "options": [
+      "30.24 km",
+      "50.4 km",
+      "8.4 km",
+      "69.5 km"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q094",
+    "question": "Which country has joined WTO (World Trade Organisation) as 164th member in 2016?",
+    "options": [
+      "Phillippines",
+      "Liberia",
+      "Jordan",
+      "Afghanistan"
+    ],
+    "answer": 3,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q095",
+    "question": "The LCM of two consecutive even numbers is 144, find the numbers?",
+    "options": [
+      "16 and 18",
+      "14 and 16",
+      "18 and 20",
+      "22 and 24"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q096",
+    "question": "The Dibru-Saikhowa, Nameri and Orang National Park are all found in which State?",
+    "options": [
+      "Andhra Pradesh",
+      "Assam",
+      "Arunachal Pradesh",
+      "Uttarakhand"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q097",
+    "question": "The Make In India Logo is made up of what?",
+    "options": [
+      "Lion made of Cogs",
+      "Eagle Made of Steel",
+      "Chakra Made of Cotton",
+      "Tiger Made of Khadi"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q098",
+    "question": "Maligni Days is based on the works of which Indian Writer?",
+    "options": [
+      "Shankar Nag",
+      "R. K. Lakshman",
+      "R.K. Narayan",
+      "Girish Karnad"
+    ],
+    "answer": 2,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q099",
+    "question": "A train having a length of 500 m passes through a tunnel of 1000 m in 1 minute, what is the speed of the train in Km/hr?",
+    "options": [
+      "75 Km/hr",
+      "90 Km/hr",
+      "87 Km/hr",
+      "96 Km/hr"
+    ],
+    "answer": 1,
+    "subject": "RAILWAY MOD 4"
+  },
+  {
+    "id": "q100",
+    "question": "What is the science or art of designing and accelerating projectiles so as to achieve a desired performance called?",
+    "options": [
+      "Ballistics",
+      "Catapulting",
+      "Ejection",
+      "Rocket Science"
+    ],
+    "answer": 0,
+    "subject": "RAILWAY MOD 4"
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q001",
+    "question": "The ortho-toluidine test is performed for assessing the effectiveness of:",
+    "options": [
+      "Chlorination",
+      "Organic purification",
+      "Sewage treatment",
+      "Water purification"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q002",
+    "question": "Indicate a reversible cholinesterase inhibitor",
+    "options": [
+      "Isofluphosphol",
+      "Carbachol",
+      "Physostigmine",
+      "Parathion"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q003",
+    "question": "Kala Azar is a type of:",
+    "options": [
+      "Giardiasis",
+      "Leishmaniasis",
+      "Helminthiasis",
+      "Schistosomiasis"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q004",
+    "question": "Respiratory distress syndrome in premature infants is caused by the absence of:",
+    "options": [
+      "Cephaline",
+      "Lecithin",
+      "Phosphatidyl serine",
+      "Myoinsitol"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q005",
+    "question": "Indicate the skeletal muscle relaxant which is a depolarizing agent",
+    "options": [
+      "Vecuronium",
+      "Scopolamine",
+      "Succinylcholine",
+      "Hexamethonium"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q006",
+    "question": "Which of the following is not a waste product of protein metabolism?",
+    "options": [
+      "Urea",
+      "Ammonia",
+      "Creatinine",
+      "Uric acid"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q007",
+    "question": "mRNA is synthesised in the nucleus as:",
+    "options": [
+      "tmRNA",
+      "snoRNA",
+      "scRNA",
+      "hnRNA"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q008",
+    "question": "Blood plasma and blood serum preparations are dried by:",
+    "options": [
+      "Freeze dryer",
+      "Vacuum dryer",
+      "Spray dryer",
+      "Fluidized bed dryer"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q009",
+    "question": "The adipose tissue in new-borns is called:",
+    "options": [
+      "Yellow Fat",
+      "White Fat",
+      "Black Fat",
+      "Brown Fat"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q010",
+    "question": "Lipid derived autocoids are all EXCEPT",
+    "options": [
+      "Leukotrienes",
+      "Histamine",
+      "Prostaglandins",
+      "Platelets activating factor"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q011",
+    "question": "The rod shaped bacteria are:",
+    "options": [
+      "Coccus",
+      "Spirilla",
+      "Bacillus",
+      "Vibrios"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q012",
+    "question": "The disease that is completely eradicated from India through systematised immunisation programme is:",
+    "options": [
+      "Diphtheria",
+      "Small Pox",
+      "Whooping Cough",
+      "Leprosy"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q013",
+    "question": "First pass effect is seen with which route of administration?",
+    "options": [
+      "Oral",
+      "Intramuscular",
+      "Sublingual",
+      "Intravenous"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q014",
+    "question": "Amantadine is the drug used as:",
+    "options": [
+      "Antibacterial",
+      "Antiviral",
+      "Antifungal",
+      "Antiprotozoal"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q015",
+    "question": "The protein-DNA complex in higher organisms is called:",
+    "options": [
+      "Transferrin",
+      "Chromatin",
+      "Interferon",
+      "Dystrophin"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q016",
+    "question": "One among the following is a volatile oil containing crude drug:",
+    "options": [
+      "Chirata",
+      "Cardamom",
+      "Linseed",
+      "Myrobalan"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q017",
+    "question": "Drugs suppressing nausea and vomiting are:",
+    "options": [
+      "Anti-emetic",
+      "Anti-diarrheal",
+      "Anti-ulcer",
+      "Antiseptic"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q018",
+    "question": "Which factor is more decisive in the choice of a drug?",
+    "options": [
+      "Potency",
+      "Efficacy",
+      "Toxicity",
+      "All equally"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q019",
+    "question": "Which one of the following groups is responsible for the duration of the local anesthetic action?",
+    "options": [
+      "Intermediate chain",
+      "Lipophilic group",
+      "Ionizable group",
+      "All of the above"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q020",
+    "question": "The diagnostic agent used for the functioning of the thyroid gland:",
+    "options": [
+      "Fe-50",
+      "I-131",
+      "Co-60",
+      "P-32"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q021",
+    "question": "Passive immunity is obtained by injecting:",
+    "options": [
+      "Antiserum",
+      "Antigens",
+      "Vaccines",
+      "Antibodies"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q022",
+    "question": "Insulin is released by?",
+    "options": [
+      "α cells of pancreas",
+      "Parafollicular cells of thyroid",
+      "β cells of pancreas",
+      "Posterior pituitary"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q023",
+    "question": "A pharmacy professional should be:",
+    "options": [
+      "Incapable of lateral thinking",
+      "Not approachable",
+      "Unavailable",
+      "Observant"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q024",
+    "question": "A deficiency in the activity of sphingomyelinase enzyme leads to:",
+    "options": [
+      "Niemann-pick disease",
+      "Jacob's disease",
+      "Krabbe's disease",
+      "Gaucher's disease"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q025",
+    "question": "An example of sulfonyl urea is:",
+    "options": [
+      "Metformin",
+      "Tolbutamide",
+      "Rosiglitazone",
+      "Repaglinide"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q026",
+    "question": "A naturally occurring carminative is:",
+    "options": [
+      "Asafoetida",
+      "Asoka",
+      "Arjuna",
+      "Agar"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q027",
+    "question": "Which of the following steroids can be administered by inhalation?",
+    "options": [
+      "Beclomethasone",
+      "Prednisolone",
+      "Betamethasone",
+      "Hydrocortisone"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q028",
+    "question": "Bronchospasm produced by histamine is antagonized by adrenaline is an example of",
+    "options": [
+      "Chemical antagonism",
+      "Physiological antagonism",
+      "Physical antagonism",
+      "Receptor mediated antagonism"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q029",
+    "question": "Crystalluria is the side effect associated with:",
+    "options": [
+      "Quinolones",
+      "Azoles",
+      "Sulphonamides",
+      "Taxol"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q030",
+    "question": "The protein-DNA complex in higher organisms is called:",
+    "options": [
+      "Transferrin",
+      "Chromatin",
+      "Interferon",
+      "Dystrophin"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q031",
+    "question": "The DPO (Drug Price Control Order) was issued by central government in:",
+    "options": [
+      "1985",
+      "1995",
+      "1987",
+      "1997"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q032",
+    "question": "Phenobarbitone is a",
+    "options": [
+      "Sedative",
+      "Antitussive",
+      "Antipsychotic",
+      "Anxiolytic"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q033",
+    "question": "Following drug is used for the treatment of glaucoma?",
+    "options": [
+      "Timolol",
+      "Atropine",
+      "Naphazoline",
+      "Cyclopentolate"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q034",
+    "question": "All of the following drugs are considered as NSAIDs except?",
+    "options": [
+      "Indomethacin",
+      "Corticosteroids",
+      "Ibuprofen",
+      "Diclofenac"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q035",
+    "question": "Deglutition is a term related to:",
+    "options": [
+      "Churning",
+      "Swallowing",
+      "Chewing",
+      "Biting"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q036",
+    "question": "In zero order kinetic:",
+    "options": [
+      "A constant fraction of drug is eliminated in unit time",
+      "No drug is eliminated from the body",
+      "A constant amount of drug is eliminated in unit time",
+      "None of the above"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q037",
+    "question": "One among the following is a communicable disease:",
+    "options": [
+      "Cancer",
+      "Diabetes",
+      "Hypertension",
+      "Filariasis"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q038",
+    "question": "All of the following are anti-helminthic drugs except?",
+    "options": [
+      "Albendazole",
+      "Ivermectin",
+      "Metronidazole",
+      "Diethylcarbamazine"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q039",
+    "question": "The presence of pathogenic Bacteria in blood is called:",
+    "options": [
+      "Toxemia",
+      "Septicemia",
+      "Bacteremia",
+      "Anemia"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q040",
+    "question": "NSAIDs are used in all except",
+    "options": [
+      "As analgesic",
+      "Rheumatoid arthritis",
+      "Peptic ulcer",
+      "Osteoarthritis"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q041",
+    "question": "The Ultra short acting barbiturate is ____",
+    "options": [
+      "Phenobarbitone",
+      "Secobarbital",
+      "Thiopentone",
+      "Pentobarbitone"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q042",
+    "question": "Nicotinic receptor is a:",
+    "options": [
+      "G-protein-coupled receptor",
+      "Ligand-gated cation channel",
+      "Nuclear receptor",
+      "Tyrosine kinase receptor"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q043",
+    "question": "Senna belongs to the family of:",
+    "options": [
+      "Leguminosae",
+      "Burseraceae",
+      "Rhamnaceae",
+      "Scrophulariaceae"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q044",
+    "question": "Which of the following is not a cherenine?",
+    "options": [
+      "Adrenaline",
+      "Phenylephrine",
+      "Adrenaline",
+      "Dopamine"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q045",
+    "question": "Drug of choice for anaphylactic shock is?",
+    "options": [
+      "Antihistaminic",
+      "Adrenaline",
+      "Glucocorticoids",
+      "Dopamine"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q046",
+    "question": "The elements present in phenothiazine are:",
+    "options": [
+      "Oxygen and Nitrogen",
+      "Sulphur and Nitrogen",
+      "Oxygen and Sulphur",
+      "Nitrogen and Nitrogen"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q047",
+    "question": "Dapsone is used for the therapy of",
+    "options": [
+      "Tuberculosis",
+      "Amoebicide",
+      "Leprosy",
+      "Helminthiasis"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q048",
+    "question": "All are uses of antihistaminics except",
+    "options": [
+      "Urticaria",
+      "Pruritis",
+      "Motion sickness",
+      "Glaucoma"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q049",
+    "question": "A crude drug used as cardiotonic:",
+    "options": [
+      "Dhatura",
+      "Cinchona",
+      "Ephedra",
+      "Ergot"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q050",
+    "question": "Cytochrome P450, the drug-metabolizing enzyme is present in?",
+    "options": [
+      "Cell membrane",
+      "Rough endoplasmic reticulum",
+      "Smooth endoplasmic reticulum",
+      "Nucleus"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q051",
+    "question": "The penalty for non-disclosure of the name of the manufacturer is:",
+    "options": [
+      "Rs. 20,000",
+      "Rs. 2,000",
+      "Rs. 1,000",
+      "Rs. 500"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q052",
+    "question": "The Keller-Killiani test is specific for:",
+    "options": [
+      "Cascaroside",
+      "Prunasin",
+      "Linarin",
+      "Digitoxose"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q053",
+    "question": "Vitamin tablets are generally formulated as:",
+    "options": [
+      "Hypodermic Tablets",
+      "Sublingual Tablets",
+      "Effervescent Tablets",
+      "Chewable Tablets"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q054",
+    "question": "The most dangerous effect of antiseizure drugs after large overdoses is",
+    "options": [
+      "Respiratory depression",
+      "Gastrointestinal irritation",
+      "Alopecia",
+      "Sedation"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q055",
+    "question": "Widal Test is used for diagnosis of",
+    "options": [
+      "Typhoid",
+      "AIDS",
+      "Jaundice",
+      "Meningitis"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q056",
+    "question": "The Drugs and Cosmetic Act was passed in",
+    "options": [
+      "1940",
+      "1945",
+      "1947",
+      "1946"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q057",
+    "question": "Following agent is contraindicated in pregnant female presenting with CHF?",
+    "options": [
+      "Thiazide diuretics",
+      "Vasodilators",
+      "ACE inhibitors",
+      "Cardiac glycosides"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q058",
+    "question": "The price that equates market supply and market demand is called:",
+    "options": [
+      "Market clearing price",
+      "Market restoring price",
+      "Market depreciating price",
+      "Market elastic price"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q059",
+    "question": "Spherical-shaped bacteria are termed as:",
+    "options": [
+      "Bacilli",
+      "Cocci",
+      "Spirochaetes",
+      "Vibrios"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q060",
+    "question": "In the paediatric dose calculation, children in the first twenty days of birth come under the class of",
+    "options": [
+      "Infant",
+      "Child",
+      "Neonatal",
+      "Just born"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q061",
+    "question": "Which of the following drugs is useful in the treatment of Parkinson's disease?",
+    "options": [
+      "Benztropine",
+      "Edrophonium",
+      "Succinylcholine",
+      "Hexamethonium"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q062",
+    "question": "Indicate the drug that induces Parkinsonian syndrome",
+    "options": [
+      "Chlorpromazine",
+      "Diazepam",
+      "Triazolam",
+      "Carbamazepine"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q063",
+    "question": "Ranitidine is a:",
+    "options": [
+      "H2 antagonist",
+      "H1 antagonist",
+      "Beta adrenergic antagonist",
+      "Alpha adrenergic antagonist"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q064",
+    "question": "The condensation of chromatin and shrinkage of the nucleus leading to cell death is termed as:",
+    "options": [
+      "Karyorrhexis",
+      "Pyknosis",
+      "Karyolysis",
+      "Autophagy"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q065",
+    "question": "Trench fever is a",
+    "options": [
+      "Bacterial disease",
+      "Protozoal disease",
+      "Viral disease",
+      "Rickettsial disease"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q066",
+    "question": "Sterols belongs to the class of:",
+    "options": [
+      "Lipids",
+      "Waxes",
+      "Carbohydrates",
+      "Proteins"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q067",
+    "question": "The pathogenic organism in milk is killed by:",
+    "options": [
+      "Tyndallization",
+      "Pasteurization",
+      "Autoclaving",
+      "Dry Heat Sterilization"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q068",
+    "question": "The natural alkaloid used in the treatment of gout is:",
+    "options": [
+      "Cinchinine",
+      "Colchicine",
+      "Reserpine",
+      "Emetine"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q069",
+    "question": "Ancylostomata duodenal is a:",
+    "options": [
+      "Nematode",
+      "Amoeba",
+      "Protozoan",
+      "Fungus"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q070",
+    "question": "The major neurotransmitter in the parasympathetic system is",
+    "options": [
+      "Nor-adrenaline",
+      "Acetylcholine",
+      "Adrenaline",
+      "Dopamine"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q071",
+    "question": "The average of first three out of four numbers is 18. The average of last three numbers is 14. The sum of first and last number is 16. The last number is",
+    "options": [
+      "14",
+      "2",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q072",
+    "question": "The difference between the ages of two sisters is 2 years when father's age was 52. Father is elder by 2 years to mother. Elder sister's age is half of mother's age. Find the age of younger sister.",
+    "options": [
+      "27",
+      "21",
+      "25",
+      "23"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q073",
+    "question": "The maturity value after three years, of a certain sum at 15% p.a. simple interest, is Rs. 8700/-. Find the principal amount.",
+    "options": [
+      "Rs. 5,000",
+      "Rs. 6,000",
+      "Rs. 5,500",
+      "Rs. 6,500"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q074",
+    "question": "If PHIE is ONHXD then ELEANOR is",
+    "options": [
+      "DKDAMNQ",
+      "DDKAMNR",
+      "DKDANMR",
+      "DJDAMNO"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q075",
+    "question": "The marked prices of big and small note books are Rs. 10 and Rs. 15 respectively. A student bought 5 dozen small and 10 dozen big note books at a total discount of 5%. Find the total discount amount.",
+    "options": [
+      "Rs. 100",
+      "Rs. 110",
+      "Rs. 105",
+      "Rs. 130"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q076",
+    "question": "An event happening once in 4 years is described as",
+    "options": [
+      "Biennial",
+      "Quadrennial",
+      "Triennial",
+      "Perennial"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q077",
+    "question": "Read the given data carefully and answer the question based on it. (i) 'A+G' means 'A is mother of G' (ii) 'A−G' means 'A is daughter of G' (iii) 'A×G' means 'A is husband of G' (iv) 'A÷G' means 'A is maternal aunt of G'. If L + M × N then how is L related to N?",
+    "options": [
+      "Aunt",
+      "Mother",
+      "Daughter",
+      "Grandmother"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q078",
+    "question": "Find the value of [(525+25)^2 − (525−25)^2] / (525×252).",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q079",
+    "question": "A man has equal number of five, ten and twenty rupee notes amounting to Rs. 385. Find the total number of notes?",
+    "options": [
+      "39",
+      "33",
+      "45",
+      "20"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q080",
+    "question": "Which key combination is used for pasting text in MS Word?",
+    "options": [
+      "Ctrl + v",
+      "Ctrl + z",
+      "Alt + r",
+      "Alt + F4"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q081",
+    "question": "In the following equation, if the mathematical operators '−' and '×' are interchanged then the value of 4−6+15×3 will be",
+    "options": [
+      "24",
+      "20",
+      "−5",
+      "−4"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q082",
+    "question": "Which one is not a network protocol?",
+    "options": [
+      "SSH",
+      "HTML",
+      "PPP",
+      "POP"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q083",
+    "question": "The mean of first 11 natural numbers is",
+    "options": [
+      "5.5",
+      "6",
+      "6.6",
+      "5"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q084",
+    "question": "National Air Quality Index is determined on the basis of concentration of ____ pollutants.",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q085",
+    "question": "Starting from her house a woman walks 15 km towards South. She turns right and walks 35 km. Again she turns right and walks 15 km. Then she turns left and walks 5 km. How far is her house now?",
+    "options": [
+      "35",
+      "40",
+      "50",
+      "15"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q086",
+    "question": "Motion of a spinning 'top' is an example of",
+    "options": [
+      "Centripetal Force",
+      "Centrifugal Force",
+      "Gravitational Force",
+      "Frictional Force"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q087",
+    "question": "Which one is anti-virus?",
+    "options": [
+      "CodeRed",
+      "Melissa",
+      "CryptoLocker",
+      "Web"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q088",
+    "question": "13th South Asian Games 2019 were held at",
+    "options": [
+      "Pokhara",
+      "Guwahati",
+      "Kabul",
+      "Ahmedabad"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q089",
+    "question": "Who won the 2023 World Chess Championship held at Astana, Kazakhstan",
+    "options": [
+      "Vladimir Kramnik",
+      "Ding Liren",
+      "Boris Gelfand",
+      "Magnus Carlsen"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q090",
+    "question": "Which one is different from the other",
+    "options": [
+      "Spinach",
+      "Lentil",
+      "Coriander",
+      "Lettuce"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q091",
+    "question": "B does 50% of a work in 20 days. C joins B and they together complete the remaining work in 4 days. C alone can do the whole work in ____ days.",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "9"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q092",
+    "question": "Loosong festival is popular in",
+    "options": [
+      "Himachal Pradesh",
+      "Sikkim",
+      "Arunachal Pradesh",
+      "Tripura"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q093",
+    "question": "The most popular folk dance of Tamil Nadu",
+    "options": [
+      "Karagam",
+      "Koodiyattam",
+      "Yakshagana",
+      "Kathakali"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q094",
+    "question": "John is selling an article for Rs. 1235 at 5%. At what price should he sell it to get a profit of 10%?",
+    "options": [
+      "Rs. 1,335",
+      "Rs. 1,380",
+      "Rs. 1,430",
+      "Rs. 1,300"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q095",
+    "question": "The ratio of two numbers is 4:3 and their HCF is 8. Find their LCM.",
+    "options": [
+      "48",
+      "96",
+      "64",
+      "84"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q096",
+    "question": "The technique used for printing 'RESERVE BANK OF INDIA' appearing on the face of the Indian currency notes is",
+    "options": [
+      "Intaglio printing",
+      "Micro lettering",
+      "Latent printing",
+      "Screen printing"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q097",
+    "question": "Y is R's mother's mother-in-law's only daughter and Q's wife. How is Q related to R?",
+    "options": [
+      "Paternal Uncle",
+      "Nephew",
+      "Husband",
+      "Father"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q098",
+    "question": "Find the similarity in the following: Ginger, Turnip, Carrot, Radish",
+    "options": [
+      "All are red in colour.",
+      "All are round in shape.",
+      "All of them grow above the soil.",
+      "All are roots."
+    ],
+    "answer": 3,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q099",
+    "question": "Rearrange the jumbled letters to make a meaningful word and then select the one which is different.",
+    "options": [
+      "SUVNE",
+      "APLTE",
+      "ARMS",
+      "RUJTPIE"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  },
+  {
+    "id": "q100",
+    "question": "The surface-to-air, Akash missile, was test fired from",
+    "options": [
+      "Chandipur",
+      "Abdul Kalam Island",
+      "Thumba",
+      "Pokhran"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 8"
+  }
+]

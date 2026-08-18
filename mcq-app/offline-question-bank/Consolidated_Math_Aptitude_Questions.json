@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "q001",
+    "question": "A man covers a distance of 18 km at 6 km/h and returns at 9 km/h. What is his average speed for the entire journey?",
+    "options": [
+      "7.2 km/h",
+      "7.5 km/h",
+      "8 km/h",
+      "7 km/h"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q002",
+    "question": "A man invests ₹8,000 at 10% per annum compound interest. What will be the amount after 2 years?",
+    "options": [
+      "₹9,600",
+      "₹9,680",
+      "₹9,720",
+      "₹9,840"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q003",
+    "question": "The perimeter of a rectangle is 60 m. If its length is 20 m, what is its area?",
+    "options": [
+      "200 m²",
+      "240 m²",
+      "300 m²",
+      "180 m²"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q004",
+    "question": "The LCM of two numbers is 120, and their HCF is 12. If one of the numbers is 24, what is the other number?",
+    "options": [
+      "48",
+      "60",
+      "36",
+      "72"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q005",
+    "question": "The difference between a two-digit number and the number obtained by reversing its digits is 36. What is the sum of its digits?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q006",
+    "question": "If “STORM” is coded as “RTNLP”, how is “CLOUD” coded?",
+    "options": [
+      "BKNCT",
+      "BKNTS",
+      "DKOTC",
+      "DKNTC"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q007",
+    "question": "Pointing to a woman, Ravi said, “She is the daughter of my grandfather's only son.” How is the woman related to Ravi?",
+    "options": [
+      "Sister",
+      "Cousin",
+      "Mother",
+      "Aunt"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q008",
+    "question": "Find the odd one out: Lion, Elephant, Tiger, Leopard.",
+    "options": [
+      "Lion",
+      "Elephant",
+      "Tiger",
+      "Leopard"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q009",
+    "question": "What comes next in the series: A, C, F, J, ?",
+    "options": [
+      "M",
+      "N",
+      "O",
+      "P"
+    ],
+    "answer": 2,
+    "subject": "Reasoning",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q010",
+    "question": "In a certain code language, \"TABLE\" is coded as \"ELBAT.\" How is \"CHAIR\" coded?",
+    "options": [
+      "RIACH",
+      "IRAHC",
+      "RIHAC",
+      "RHIAC"
+    ],
+    "answer": 2,
+    "subject": "Reasoning",
+    "source": "Model_Paper_23.json"
+  },
+  {
+    "id": "q011",
+    "question": "If the mathematical operators, ‘+’ and ‘×’ are interchanged, what will be the value of the equation 9+5=10−23×2",
+    "options": [
+      "3",
+      "2",
+      "-3",
+      "-5"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q012",
+    "question": "A wire is in the shape of a rectangle. Its length is 42.7m and breadth is 21.8m. If the same wire is rebent in the shape of a square, what will be the measure of the side of the square?",
+    "options": [
+      "16.125",
+      "32.25",
+      "11.35",
+      "22.70"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q013",
+    "question": "Rearrange the jumbled letters to make a meaningful word and then select the one which is different.",
+    "options": [
+      "ORIN",
+      "NADS",
+      "POPCER",
+      "DLOOS"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q014",
+    "question": "What is the smallest number of 5 digits which is exactly divisible by 12, 24, 48, 60 and 96?",
+    "options": [
+      "10000",
+      "10024",
+      "10160",
+      "10080"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q015",
+    "question": "Find the cost in rupees for carpeting a room 65dm×30dm at Rs. 45 per sq.m",
+    "options": [
+      "877.50",
+      "87750",
+      "87.75",
+      "8775"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q016",
+    "question": "The ratio of ages of Jai and Joy is 5:2. The sum of their ages is 63. After 9 years what will be the ratio of their ages?",
+    "options": [
+      "5:2",
+      "2:1",
+      "3:2",
+      "4:3"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q017",
+    "question": "By selling 90 chocolates for Rs. 160, a chocolate trader loses 20%. How many chocolates should he sell for Rs. 96 to make a profit of 20%?",
+    "options": [
+      "45",
+      "36",
+      "54",
+      "28"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q018",
+    "question": "Four pairs of words are given. Find the odd one out.",
+    "options": [
+      "65th anniversary : Diamond Jubilee",
+      "50th anniversary : Golden Jubilee",
+      "40th anniversary : Ruby Jubilee",
+      "25th anniversary : Silver Jubilee"
+    ],
+    "answer": 0,
+    "subject": "Reasoning",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q019",
+    "question": "If X = 24 and BE = 7, then RING = ?",
+    "options": [
+      "41",
+      "47",
+      "48",
+      "49"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q020",
+    "question": "The product of two consecutive odd numbers is 399. Find the lower of them.",
+    "options": [
+      "17",
+      "19",
+      "21",
+      "23"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_03(1).json"
+  },
+  {
+    "id": "q021",
+    "question": "Cost price of 25 chairs equals the selling price of 20 chairs. Find the profit %.",
+    "options": [
+      "20%",
+      "33%",
+      "25%",
+      "12.5%"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q022",
+    "question": "A trader marks his goods at 20% above cost price. If he allows a discount of 5% what is his final profit%?",
+    "options": [
+      "12%",
+      "14%",
+      "15%",
+      "18%"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q023",
+    "question": "Kitty said, “Uthara is one of the two daughters of my mother’s brother’s wife”. How is Kitty’s mother related to Uthara’s sister?",
+    "options": [
+      "Maternal Aunt",
+      "Mother",
+      "Grandmother",
+      "Sister"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q024",
+    "question": "One angle of a triangle is 55°. If the other two angles are in the ratio 9:16, find the angles?",
+    "options": [
+      "65° and 115°",
+      "90° and 160°",
+      "55° and 165°",
+      "45° and 80°"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q025",
+    "question": "Select the alternative that does not have a similar relationship as the given pair Forward: Backward",
+    "options": [
+      "Hope: Despair",
+      "Love: Hate",
+      "Anger: Wrath",
+      "Light: Dark"
+    ],
+    "answer": 2,
+    "subject": "Reasoning",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q026",
+    "question": "If SHELF is FURYS, then ZEBRA is",
+    "options": [
+      "NRMEO",
+      "MRNEO",
+      "NROEM",
+      "MROEN"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q027",
+    "question": "Q's father is B's son-in-law. C is Q's sister and the daughter of P. P is the maternal aunt of D. How is D related to B?",
+    "options": [
+      "Son",
+      "Daughter",
+      "Grandson",
+      "Granddaughter"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q028",
+    "question": "6 carpenters make 96 windows in 16 days. If 8 carpenters work for 4 days how many windows will they make?",
+    "options": [
+      "16",
+      "28",
+      "36",
+      "32"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q029",
+    "question": "Find the missing (?) in the series AIQ, BJR, CKS, DLT, ?...",
+    "options": [
+      "ENU",
+      "EMV",
+      "ENV",
+      "EMU"
+    ],
+    "answer": 3,
+    "subject": "Reasoning",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q030",
+    "question": "Sanjay and Jacob start running in opposite directions from the same point at speeds of 7m/s and 5m/s. After 42 minutes, how far would they be from each other?",
+    "options": [
+      "30.24 km",
+      "50.4 km",
+      "8.4 km",
+      "69.5 km"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q031",
+    "question": "The LCM of two consecutive even numbers is 144, find the numbers?",
+    "options": [
+      "16 and 18",
+      "14 and 16",
+      "18 and 20",
+      "22 and 24"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q032",
+    "question": "A train having a length of 500 m passes through a tunnel of 1000 m in 1 minute, what is the speed of the train in Km/hr?",
+    "options": [
+      "75 Km/hr",
+      "90 Km/hr",
+      "87 Km/hr",
+      "96 Km/hr"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD_4(1).json"
+  },
+  {
+    "id": "q033",
+    "question": "If ‘+’ means ×, ‘-’ means ÷, ‘×’ means + and ‘÷’ means -; compute the value of the expression: 15 + 9 × 10 ÷ 5",
+    "options": [
+      "140",
+      "190",
+      "145",
+      "130"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q034",
+    "question": "Pointing at a photograph, Ramesh said, “He is Rahul, my brother’s son’s only paternal uncle’s wife’s brother”. How is Rahul related to Ramesh?",
+    "options": [
+      "Brother-in-law",
+      "Brother",
+      "Cousin",
+      "Son"
+    ],
+    "answer": 0,
+    "subject": "Reasoning",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q035",
+    "question": "Choose the pair which is related in the same way as the words in the first pair from the given choices. OPHTHALMOLOGIST : EYE :: NEPHROLOGIST :",
+    "options": [
+      "NERVOUS SYSTEM",
+      "LIVER",
+      "KIDNEY",
+      "STOMACH"
+    ],
+    "answer": 2,
+    "subject": "Reasoning",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q036",
+    "question": "Compute: (18 + 2 × 3.3) ÷ 0.003",
+    "options": [
+      "11200",
+      "5100",
+      "8200",
+      "1610"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q037",
+    "question": "A ladder 10 m long is leaning against a vertical wall. It makes an angle of 60° with the ground. how far is the foot of the ladder from the wall?",
+    "options": [
+      "5 m",
+      "8.66 m",
+      "17.32 m",
+      "15 m"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q038",
+    "question": "If BEAR = YVZI, then BUILDING =",
+    "options": [
+      "ATHKCHMF",
+      "YFROWRMT",
+      "YFSWOSMR",
+      "ATHKCHMT"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q039",
+    "question": "If the cost price of 120 articles is equal to the selling price of 80 articles, find the profit percent.",
+    "options": [
+      "33.33%",
+      "40%",
+      "50%",
+      "60%"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q040",
+    "question": "Choose the one which is different or odd from the following.",
+    "options": [
+      "Dal Lake",
+      "Sambhar Lake",
+      "Vembanad Lake",
+      "Wular Lake"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q041",
+    "question": "What is the compound interest on Rs. 48,000 for 2 years at 20% p.a., if interest is compounded annually?",
+    "options": [
+      "Rs. 69,120",
+      "Rs. 21,120",
+      "Rs. 76,800",
+      "Rs. 72,000"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q042",
+    "question": "Choose the one which is different or odd from the following.",
+    "options": [
+      "Knight",
+      "Rook",
+      "Bishop",
+      "Pawn"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q043",
+    "question": "Choose the one which is different or odd from the following.",
+    "options": [
+      "Aluminum",
+      "Iron",
+      "Copper",
+      "Brass"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q044",
+    "question": "If P travelled the first half of a journey at 40 km/hr and the remaining distance at 50 km/hr, what is the average speed of his travel?",
+    "options": [
+      "44.44 km/hr",
+      "53.33 km/hr",
+      "45 km/hr",
+      "60 km/hr"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "RAILWAY_MOD02(1).json"
+  },
+  {
+    "id": "q045",
+    "question": "Rearrange the jumbled letters to make meaningful words and then select the one which is different:",
+    "options": [
+      "LOWEHY",
+      "HFER",
+      "THIWE",
+      "WORNE"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q046",
+    "question": "Nurse : Ward :: ? : Board",
+    "options": [
+      "Student",
+      "Board",
+      "Class",
+      "Lesson"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q047",
+    "question": "Statements followed by some conclusions are given below. Statement: Q1. M > L > N  Q2. N = R. Conclusions: I. R > L  II. R < M. Find which of the given conclusions logically follows from the given statements.",
+    "options": [
+      "Only conclusion I follows.",
+      "Only conclusion II follows.",
+      "Both I and II follow.",
+      "Neither I nor II follows."
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q048",
+    "question": "A certain number of men agreed to do a work in 20 days. 5 men did not come for work. Others completed the work in 40 days. Find the number of men who had agreed to work originally.",
+    "options": [
+      "8",
+      "10",
+      "12",
+      "15"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q049",
+    "question": "How many prime numbers are there between the positive integers 60 and 100?",
+    "options": [
+      "9",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q050",
+    "question": "A trader sells two articles for Rs 1875 each. If he gains 25% on one and loses 25% on the other, then what is the value (in Rs) of the loss?",
+    "options": [
+      "150",
+      "250",
+      "400",
+      "500"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q051",
+    "question": "The LCM of two numbers is 66. The numbers are in the ratio 2:3. The sum of the numbers is",
+    "options": [
+      "60",
+      "55",
+      "50",
+      "65"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q052",
+    "question": "If P means '+', R means '×', Q means '÷' and S means '−', then 36 P 6 Q R 8 S 11 =",
+    "options": [
+      "45",
+      "51",
+      "62",
+      "52"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q053",
+    "question": "Ms. Chandra said that Lakshmi's husband is the only son of my grandfather. How is Ms. Chandra related to Lakshmi?",
+    "options": [
+      "Mother",
+      "Daughter",
+      "Cousin",
+      "Niece"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q054",
+    "question": "A certain sum becomes Rs 840 in 3 years and Rs 1200 in 7 years at simple interest. What is the value (in Rs.) of principal?",
+    "options": [
+      "520",
+      "570",
+      "620",
+      "670"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q055",
+    "question": "During morning walk, a man covers a distance of 3 km, 4 km, 3.5 km, 5 km and 4.5 km from Monday to Friday, respectively. How much distance should he cover on two more days, so that his average per week becomes 4 km per day?",
+    "options": [
+      "4",
+      "8",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q056",
+    "question": "Find the HCF & LCM of 16, 24.",
+    "options": [
+      "8, 48",
+      "4, 12",
+      "2, 24",
+      "4, 48"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q057",
+    "question": "A man purchased a cycle for Rs. 3,000/- and agreed to pay 12% on the amount as interest. He repaid principal and interest in 12 equal monthly installments. Find the amount of each installment.",
+    "options": [
+      "Rs. 260",
+      "Rs. 240",
+      "Rs. 280",
+      "Rs. 300"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q058",
+    "question": "If 'are you same' = 'ri ai ki', 'all hate you' = 'vi li ri' and 'all are fake' = 'mi ai li' then which represents 'hate'?",
+    "options": [
+      "ri",
+      "li",
+      "vi",
+      "ai"
+    ],
+    "answer": 2,
+    "subject": "Reasoning",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q059",
+    "question": "Pointing to K, M said that she was the daughter of the only son of his grandfather. How M is related to K?",
+    "options": [
+      "Mother",
+      "Maternal aunt",
+      "Daughter",
+      "Sister"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q060",
+    "question": "Find the mean value of 2, 3, 3, 4, 6, 7",
+    "options": [
+      "4.17",
+      "4.15",
+      "4.13",
+      "4.70"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_5(1).json"
+  },
+  {
+    "id": "q061",
+    "question": "A shop keeper purchased 10 kg of rice and 20 kg of sugar at Rs. 75 and Rs. 85 per kg respectively. On selling, he gained 20% on rice and 10% on sugar. What was the total sale price?",
+    "options": [
+      "Rs. 2,695",
+      "Rs. 2,770",
+      "Rs. 2,800",
+      "Rs. 2,750"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q062",
+    "question": "Which one does not belong to the group?",
+    "options": [
+      "Zee",
+      "Screen",
+      "Colors",
+      "Sony"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q063",
+    "question": "A path of 2.5 m width surrounds a rectangular garden of length 10 m and breadth 8 m. Area of the garden, inclusive of the path is",
+    "options": [
+      "130.25 sq.m",
+      "131.25 sq.m",
+      "195.00 sq.m",
+      "132.50 sq.m"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q064",
+    "question": "Find the similarity in the following: Leopard, Tiger, Jaguar, Lion",
+    "options": [
+      "All of them are found in India.",
+      "All of them belong to the cat family.",
+      "All of their young ones are called kittens.",
+      "There is no similarity."
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q065",
+    "question": "A trader bought 10 kg of tea at Rs. 400 per kg. He sold half the quantity at 20% loss and remaining at 10% profit. What was his net profit or loss in percentage?",
+    "options": [
+      "5% loss",
+      "5% gain",
+      "10% loss",
+      "10% gain"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q066",
+    "question": "An article was sold for Rs. 2100 at a profit of 25%. What is its cost price?",
+    "options": [
+      "Rs. 1,620",
+      "Rs. 1,640",
+      "Rs. 1,660",
+      "Rs. 1,680"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q067",
+    "question": "In a certain code, 327 means ‘don’t cut tree’, 635 means ‘plant one tree’, 138 means ‘tree gives shade’ and 4953 means ‘we must plant tree’. Which digit represents ‘shade’?",
+    "options": [
+      "1",
+      "4",
+      "8",
+      "Cannot be determined"
+    ],
+    "answer": 3,
+    "subject": "Reasoning",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q068",
+    "question": "Which number will fit in ‘?’ place in the following series 12, 23, 45, 89, ?",
+    "options": [
+      "175",
+      "176",
+      "177",
+      "178"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q069",
+    "question": "If the mathematical operators, ‘x’ means ‘+’, ‘+’ means ‘x’, ‘+’ means ‘-’, and ‘-’ means ‘÷’, then 22+36-12x6+4 = ?",
+    "options": [
+      "-21",
+      "43",
+      "68",
+      "53"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q070",
+    "question": "A tap can fill a tank in 20 minutes. If a leakage is capable of emptying the tank in 60 minutes, the tank will be filled in",
+    "options": [
+      "1 hour",
+      "45 minutes",
+      "30 minutes",
+      "50 minutes"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q071",
+    "question": "A bus runs at 50 kmph. If the speed is increased by 10 kmph, it will cover 20 km more in the same time. Find the actual distance covered.",
+    "options": [
+      "100 km",
+      "150 km",
+      "200 km",
+      "250 km"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q072",
+    "question": "Four pairs of words are given. Find the odd one out.",
+    "options": [
+      "Rhombus : Four-sided polygon",
+      "Nonagon : Seven-sided polygon",
+      "Octagon : Eight-sided polygon",
+      "Hexagon : Six-sided polygon"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q073",
+    "question": "Find the 4th proportional to 9, 17 and 27.",
+    "options": [
+      "57",
+      "48",
+      "51",
+      "53"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_6(2).json"
+  },
+  {
+    "id": "q074",
+    "question": "One side of a rectangle is 12 m and its diagonal is 13 m. Find its area.",
+    "options": [
+      "60 sq.m",
+      "55 sq.m",
+      "50 sq.m",
+      "45 sq.m"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q075",
+    "question": "Read the given statements carefully and answer the question. Statement: I. Domestic price of petrol has gone down. II. International price of crude oil has decreased. Which relation is correct?",
+    "options": [
+      "I is the cause and II is the effect.",
+      "II is the cause and I is the effect.",
+      "I and II are independent of each other.",
+      "I and II are effects of independent causes."
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q076",
+    "question": "In a map drawn to a scale of 1 cm = 18.5 km, the distance between places A and B is 22.25 cm. Find the actual distance in kilometer.",
+    "options": [
+      "411.625",
+      "425.615",
+      "412.625",
+      "405.615"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q077",
+    "question": "Find the odd one out.",
+    "options": [
+      "Silent valley",
+      "Silicon valley",
+      "Indus valley",
+      "Damodar valley"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q078",
+    "question": "If 'you are john' is written as 'net let far', 'who are you' is 'let wet net', and 'john is good' is 'get far', which represents 'is'?",
+    "options": [
+      "set",
+      "get",
+      "fat",
+      "cannot be determined"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q079",
+    "question": "A train running at 60 kmph crosses a pole in 30 seconds. What is the length of the train?",
+    "options": [
+      "250 m",
+      "750 m",
+      "500 m",
+      "450 m"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q080",
+    "question": "9876 + 34.567 − 7 = ?",
+    "options": [
+      "23.45",
+      "234.6",
+      "2.345",
+      "2.346"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q081",
+    "question": "A's share is 2 times that of B whose share is 3 times that of C. Rs. 1800/- is to be given among them. What is B's share?",
+    "options": [
+      "Rs. 1080",
+      "Rs. 540",
+      "Rs. 180",
+      "Rs. 900"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q082",
+    "question": "Cell phone : Communication :: Cycle : ?",
+    "options": [
+      "Walking",
+      "Gym",
+      "Mechanization",
+      "Transportation"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q083",
+    "question": "Find the missing (?) in the series: BDACE),GJFH,?, QSPRT ....",
+    "options": [
+      "LMRNO",
+      "LNKMO",
+      "CLNKM",
+      "KLNOM"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q084",
+    "question": "Two vessels of equal volume contain milk and water in the ratio 1:3 and 2:1. If they are mixed together, what is the new ratio?",
+    "options": [
+      "11:13",
+      "13:11",
+      "9:11",
+      "11:9"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q085",
+    "question": "Four pairs of words are given. Find the odd one out.",
+    "options": [
+      "Saturn: Planet",
+      "Sun: Star",
+      "Milky Way: Constellation",
+      "Titan: Satellite"
+    ],
+    "answer": 2,
+    "subject": "Reasoning",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q086",
+    "question": "The efficiency of work of P and Q are in the ratio 5:7. What will be the ratio of number of days taken by them to finish the work?",
+    "options": [
+      "7:5",
+      "3:4",
+      "4:3",
+      "5:7"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_7(1).json"
+  },
+  {
+    "id": "q087",
+    "question": "The average of first three out of four numbers is 18. The average of last three numbers is 14. The sum of first and last number is 16. The last number is",
+    "options": [
+      "14",
+      "2",
+      "9",
+      "7"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q088",
+    "question": "The difference between the ages of two sisters is 2 years when father's age was 52. Father is elder by 2 years to mother. Elder sister's age is half of mother's age. Find the age of younger sister.",
+    "options": [
+      "27",
+      "21",
+      "25",
+      "23"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q089",
+    "question": "The maturity value after three years, of a certain sum at 15% p.a. simple interest, is Rs. 8700/-. Find the principal amount.",
+    "options": [
+      "Rs. 5,000",
+      "Rs. 6,000",
+      "Rs. 5,500",
+      "Rs. 6,500"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q090",
+    "question": "If PHIE is ONHXD then ELEANOR is",
+    "options": [
+      "DKDAMNQ",
+      "DDKAMNR",
+      "DKDANMR",
+      "DJDAMNO"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q091",
+    "question": "The marked prices of big and small note books are Rs. 10 and Rs. 15 respectively. A student bought 5 dozen small and 10 dozen big note books at a total discount of 5%. Find the total discount amount.",
+    "options": [
+      "Rs. 100",
+      "Rs. 110",
+      "Rs. 105",
+      "Rs. 130"
+    ],
+    "answer": 2,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q092",
+    "question": "Read the given data carefully and answer the question based on it. (i) 'A+G' means 'A is mother of G' (ii) 'A−G' means 'A is daughter of G' (iii) 'A×G' means 'A is husband of G' (iv) 'A÷G' means 'A is maternal aunt of G'. If L + M × N then how is L related to N?",
+    "options": [
+      "Aunt",
+      "Mother",
+      "Daughter",
+      "Grandmother"
+    ],
+    "answer": 3,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q093",
+    "question": "Find the value of [(525+25)^2 − (525−25)^2] / (525×252).",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q094",
+    "question": "A man has equal number of five, ten and twenty rupee notes amounting to Rs. 385. Find the total number of notes?",
+    "options": [
+      "39",
+      "33",
+      "45",
+      "20"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q095",
+    "question": "In the following equation, if the mathematical operators '−' and '×' are interchanged then the value of 4−6+15×3 will be",
+    "options": [
+      "24",
+      "20",
+      "−5",
+      "−4"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q096",
+    "question": "The mean of first 11 natural numbers is",
+    "options": [
+      "5.5",
+      "6",
+      "6.6",
+      "5"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q097",
+    "question": "Starting from her house a woman walks 15 km towards South. She turns right and walks 35 km. Again she turns right and walks 15 km. Then she turns left and walks 5 km. How far is her house now?",
+    "options": [
+      "35",
+      "40",
+      "50",
+      "15"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q098",
+    "question": "Which one is different from the other",
+    "options": [
+      "Spinach",
+      "Lentil",
+      "Coriander",
+      "Lettuce"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q099",
+    "question": "B does 50% of a work in 20 days. C joins B and they together complete the remaining work in 4 days. C alone can do the whole work in ____ days.",
+    "options": [
+      "10",
+      "8",
+      "12",
+      "9"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q100",
+    "question": "John is selling an article for Rs. 1235 at 5%. At what price should he sell it to get a profit of 10%?",
+    "options": [
+      "Rs. 1,335",
+      "Rs. 1,380",
+      "Rs. 1,430",
+      "Rs. 1,300"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q101",
+    "question": "The ratio of two numbers is 4:3 and their HCF is 8. Find their LCM.",
+    "options": [
+      "48",
+      "96",
+      "64",
+      "84"
+    ],
+    "answer": 1,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q102",
+    "question": "Y is R's mother's mother-in-law's only daughter and Q's wife. How is Q related to R?",
+    "options": [
+      "Paternal Uncle",
+      "Nephew",
+      "Husband",
+      "Father"
+    ],
+    "answer": 0,
+    "subject": "Quantitative Aptitude",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q103",
+    "question": "Find the similarity in the following: Ginger, Turnip, Carrot, Radish",
+    "options": [
+      "All are red in colour.",
+      "All are round in shape.",
+      "All of them grow above the soil.",
+      "All are roots."
+    ],
+    "answer": 3,
+    "subject": "Reasoning",
+    "source": "Railway_Module_8(1).json"
+  },
+  {
+    "id": "q104",
+    "question": "Rearrange the jumbled letters to make a meaningful word and then select the one which is different.",
+    "options": [
+      "SUVNE",
+      "APLTE",
+      "ARMS",
+      "RUJTPIE"
+    ],
+    "answer": 1,
+    "subject": "Reasoning",
+    "source": "Railway_Module_8(1).json"
+  }
+]

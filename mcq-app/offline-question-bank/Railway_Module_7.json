@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "q001",
+    "question": "Regarding pharmaceutical elixirs, which of the following statement is true?",
+    "options": [
+      "Preservatives are required in all elixir formulations",
+      "Elixirs require addition of sweetening agents",
+      "Elixirs generally contain <10% alcohol USP",
+      "Colors are required for all elixir formulations"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q002",
+    "question": "Solid fills for hard gelatin capsules frequently contain which of the following excipient as a disintegrant?",
+    "options": [
+      "Glidants",
+      "Lactose",
+      "Magnesium stearate",
+      "Starch"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q003",
+    "question": "The dissolution rate of drugs from tablets may be increased by",
+    "options": [
+      "Increasing the compression stress during tableting",
+      "Increasing the concentration of lubricant",
+      "Increasing the concentration of disintegrant",
+      "Film coating with ethyl cellulose"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q004",
+    "question": "With respect to paste formulation, which among the following statement is true?",
+    "options": [
+      "It contains low drug loadings",
+      "It may not be applied to exuding wounds",
+      "It is used as sunblock formulations",
+      "Pastes are cosmetically acceptable"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q005",
+    "question": "Which of the following excipient is included in metered dose inhalers to increase the vapor pressure of the propellant?",
+    "options": [
+      "Ethanol",
+      "Tween 80",
+      "Oleic acid",
+      "Antioxidants"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q006",
+    "question": "What kind of antibacterial agent is erythromycin?",
+    "options": [
+      "Macrolide",
+      "Penicillin",
+      "Cephalosporin",
+      "Tetracycline"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q007",
+    "question": "Paclitaxel, a potent anticancer drug, was isolated from which natural source?",
+    "options": [
+      "The Pacific Yew tree",
+      "The Pacific Ocean",
+      "Fungus",
+      "Bacteria"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q008",
+    "question": "Aspirin is converted into salicylic acid in your body by which of the following reactions?",
+    "options": [
+      "Hydrolysis",
+      "Oxidation",
+      "Reduction",
+      "Conjugation"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q009",
+    "question": "Why esomeprazole is considered as 'me too' drug?",
+    "options": [
+      "Because it produces adverse effects identical to an already known drug",
+      "Because it is structurally related to a first in class compound belonging to the same therapeutic class as the original compound",
+      "Because it is comparable in dose, dosage form, and intended use to an already known drug",
+      "Because it is manufactured by the same company as that of an already known drug"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q010",
+    "question": "Which of the following sulphur compound is not used as topical agent?",
+    "options": [
+      "Sulphenamide",
+      "Sublimed sulphur",
+      "Precipitated sulphur",
+      "Selenium sulphide"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q011",
+    "question": "Two structurally different drugs providing same clinical response under same experimental conditions are said to",
+    "options": [
+      "Chemically equivalent",
+      "Biologically equivalent",
+      "Therapeutically bioequivalent",
+      "Clinically bioequivalent"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q012",
+    "question": "Which among the following is false regarding alcohol dependence?",
+    "options": [
+      "Tolerance is developed",
+      "There is no withdrawal syndrome",
+      "There is compulsion to take",
+      "Body achieves adaptive stage to alcohol"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q013",
+    "question": "Drugs used for rare diseases are known as",
+    "options": [
+      "Orphan drugs",
+      "Rare drugs",
+      "Over the counter drugs",
+      "Emergency drugs"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q014",
+    "question": "Which of the following software helps to predict pharmacokinetic parameters and adjust the dose of administered drugs?",
+    "options": [
+      "MEDIPHOR",
+      "AMA",
+      "NONLIN",
+      "SPSS"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q015",
+    "question": "In NREM sleep, which part of brain is not involved?",
+    "options": [
+      "Dorsal raphe nucleus",
+      "Thalamus",
+      "Hypothalamus",
+      "Basal forebrain"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q016",
+    "question": "Melatonin is secreted by",
+    "options": [
+      "Hypothalamus",
+      "Pineal gland",
+      "Adrenal cortex",
+      "Melanocytes"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q017",
+    "question": "Ventricles of brain are lined by",
+    "options": [
+      "Ependymocytes",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Podocytes"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q018",
+    "question": "Arch of aorta lies at what vertebral level?",
+    "options": [
+      "T5",
+      "T4",
+      "T6",
+      "T2"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q019",
+    "question": "Which veins drain directly into inferior vena cava?",
+    "options": [
+      "Superior mesentric vein",
+      "Inferior mesentric vein",
+      "Hepatic vein",
+      "Splenic vein"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q020",
+    "question": "The spleen is located under the ribcage and above the stomach in the ____ of the abdomen.",
+    "options": [
+      "Left upper quadrant",
+      "Left lower quadrant",
+      "Right upper quadrant",
+      "Right lower quadrant"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q021",
+    "question": "Which of the following disease is caused by niacin deficiency?",
+    "options": [
+      "Rickets",
+      "Night blindness",
+      "Scurvy",
+      "Pellagra"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q022",
+    "question": "Which among the following birth control pills have low risk of thrombosis?",
+    "options": [
+      "Norgestrel",
+      "Norgestimate",
+      "Drospirenone",
+      "Levonorgestrel"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q023",
+    "question": "Which among the following is not a role of community pharmacist?",
+    "options": [
+      "Nutrition counselling",
+      "Individualization of drug therapy",
+      "Rationale use of drugs",
+      "Drug promotion to physicians"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q024",
+    "question": "Community pharmacies that are individually owned by local pharmacies are termed as",
+    "options": [
+      "Food store pharmacies",
+      "Mass merchandiser pharmacies",
+      "Chain pharmacies",
+      "Independent pharmacies"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q025",
+    "question": "The drug which is given prophylactically used to the people living in an area with filariasis is",
+    "options": [
+      "Albendazole",
+      "Diethylcarbamazine",
+      "Doxycycline",
+      "Rifampicin"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q026",
+    "question": "What is the reason to prescribe carbidopa with levodopa to parkinsonism patients?",
+    "options": [
+      "To increase peripheral metabolism of levodopa",
+      "To decrease peripheral metabolism of levodopa",
+      "To increase metabolism of levodopa in brain",
+      "None of these"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q027",
+    "question": "An antimalarial drug containing endoperoxide structure is",
+    "options": [
+      "Quinine",
+      "Doxycycline",
+      "Artemisinin",
+      "Cycloguanil"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q028",
+    "question": "Which of the following drug is used in treatment of glaucoma?",
+    "options": [
+      "Pilocarpine",
+      "Acetylcholine",
+      "Neostigmine",
+      "Atropine"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q029",
+    "question": "Along with Isoniazid, which vitamin is prescribed for TB patients?",
+    "options": [
+      "Riboflavin",
+      "Pyridoxine",
+      "Niacin",
+      "Cyanocobalamin"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q030",
+    "question": "The schedule in Drug and Cosmetics Act that deals with requirement and guidelines of clinical trial, import and manufacture of new drug is",
+    "options": [
+      "Schedule O",
+      "Schedule M",
+      "Schedule Y",
+      "Schedule X"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q031",
+    "question": "Diacetylmorphine is also known as",
+    "options": [
+      "Cocaine",
+      "Ganja",
+      "Heroin",
+      "Charas"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q032",
+    "question": "Which of the following drug must be sold by retail only after producing a prescription by a registered medical practitioner?",
+    "options": [
+      "Schedule H",
+      "Schedule G",
+      "Schedule X",
+      "Schedule M"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q033",
+    "question": "Which of the following is a schedule X drug?",
+    "options": [
+      "Thalidomide",
+      "Amoxycillin",
+      "Ketamine",
+      "Halothane"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q034",
+    "question": "The Drug Price Control Order is issued by the Central Government by deriving power from which rule",
+    "options": [
+      "The Drug and Cosmetics Act, 1940",
+      "The Drug and Cosmetics Rule, 1945",
+      "Essential Commodities Act, 1955",
+      "Narcotic Drug and Psychotropic substance Act, 1985"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q035",
+    "question": "The application for the issue of a permit to import small quantities of drugs for personal use authority in is made to the licensing authority in",
+    "options": [
+      "Form 22",
+      "Form 12A",
+      "Form 12",
+      "Form 26"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q036",
+    "question": "As per the Drugs and Cosmetics rule, schedule P deals with",
+    "options": [
+      "Pack size of drugs",
+      "Life period of drugs in month",
+      "Standards for cosmetics",
+      "Standards for condoms and other mechanical contraceptives"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q037",
+    "question": "The number of ATP produced when a molecule of acetyl CoA is oxidised through citric acid cycle is",
+    "options": [
+      "12",
+      "24",
+      "38",
+      "15"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q038",
+    "question": "The serum enzyme used to evaluate pancreatic function is",
+    "options": [
+      "Alkaline phosphatase",
+      "Amylase",
+      "Aspartate transaminase",
+      "Lactate dehydrogenase"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q039",
+    "question": "Inulin clearance is a measure of",
+    "options": [
+      "Glomerular filtration rate",
+      "Tubular secretion flow",
+      "Tubular reabsorption rate",
+      "Renal plasma flow"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q040",
+    "question": "Erythropoietin is produced by",
+    "options": [
+      "Liver",
+      "Lungs",
+      "Bone marrow",
+      "Kidney"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q041",
+    "question": "Radiation injury can cause all of the following EXCEPT",
+    "options": [
+      "Melanoma",
+      "Thyroid carcinoma",
+      "Chronic lymphocytic leukemia",
+      "Breast carcinoma"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q042",
+    "question": "Which among the following is a light receptor protein synthesized by vitamin A for night vision?",
+    "options": [
+      "Globulin",
+      "Lipoprotein",
+      "Chromoprotein",
+      "Rhodopsin"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q043",
+    "question": "Enzyme involved in ageing process is",
+    "options": [
+      "Catalase",
+      "Superoxide dismutase",
+      "Metalloproteinase",
+      "Telomerase"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q044",
+    "question": "The carcinogenicity of a chemical can be tested by its ability to",
+    "options": [
+      "Block DNA repair",
+      "Induce activity of cytochrome P450 pathway",
+      "Induce mutations in Salmonella typhimurium",
+      "Enhance production of transforming growth factor beta"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q045",
+    "question": "The composition of Froehde's reagent is",
+    "options": [
+      "Ammonium molybdate + sulphuric acid",
+      "Potassium iodide + sulphuric acid",
+      "Bismuth iodide + sulphuric acid",
+      "Ferric chloride + sulphuric acid"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q046",
+    "question": "Ray flour contamination with ergot is identified by the test",
+    "options": [
+      "Reaction with ferric chloride",
+      "Reaction with hydrochloric acid",
+      "Fluorescence",
+      "Protein precipitation"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q047",
+    "question": "Adhatoda vasica is under the chemical class of which alkaloids?",
+    "options": [
+      "Quinazoline",
+      "Isoquinoline",
+      "Quinoline",
+      "Indole"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q048",
+    "question": "The pharmacological action of Ipecac is",
+    "options": [
+      "Stimulant",
+      "Emetic",
+      "Sedative",
+      "Carminative"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q049",
+    "question": "Which of the following plant is source of anticancer drug vinblastine?",
+    "options": [
+      "Madagascar Periwinkle",
+      "Cinchona officinalis",
+      "Emblica officinalis",
+      "Rauwolfia"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q050",
+    "question": "The term 'Pharmacognosy' was first introduced by",
+    "options": [
+      "Pelletier",
+      "Sertuerner",
+      "Schmidt",
+      "Seydler"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q051",
+    "question": "In case of Rauwolfia, which part of plant is used as medicine?",
+    "options": [
+      "Stem",
+      "Roots",
+      "Leaves",
+      "Seeds"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q052",
+    "question": "Most essential medicines should be formulated as:",
+    "options": [
+      "No compound",
+      "Single compound",
+      "Multiple compounds",
+      "Fixed dose combinations"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q053",
+    "question": "Essential medicines are those medicines:",
+    "options": [
+      "That are needed to treat emergency conditions",
+      "That are needed to treat serious diseases",
+      "That satisfies priority health care needs of the population",
+      "That are recently introduced in the market"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q054",
+    "question": "In drug store, the expiry dated drug formulations are called ____",
+    "options": [
+      "Scrap Items",
+      "Surplus Items",
+      "Obsolete Items",
+      "Dormant Materials"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q055",
+    "question": "Which among the following is not a major area related to drug store management?",
+    "options": [
+      "Rationale Use",
+      "Affordable Price",
+      "Reliable health and supply systems",
+      "Priority on use of foreign origin drugs"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q056",
+    "question": "CDSCO stands for",
+    "options": [
+      "Central Drugs Standard Control Organisation",
+      "Central Drugs Supply Control Organisation",
+      "Central Drugs Supervise & Control Organisation",
+      "Central Drugs Sub standard Control Organisation"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q057",
+    "question": "Which among the following is not a basic components of drug store management?",
+    "options": [
+      "Drug policy, laws and regulations",
+      "Selection of drugs",
+      "Storage and distribution",
+      "Selection of warehouses in urban areas"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q058",
+    "question": "Which is not a component of the drug supply management at a health facility?",
+    "options": [
+      "Preparation of drug store",
+      "Supply ordering",
+      "Receiving Supplies",
+      "Setting up pharmaceutical companies"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q059",
+    "question": "The third edition of Indian Pharmacopoeia IP was published in",
+    "options": [
+      "1985",
+      "1990",
+      "1966",
+      "1975"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q060",
+    "question": "Disodium EDTA is an example of",
+    "options": [
+      "Sweetening agent",
+      "Flavoring agent",
+      "Chelating agent",
+      "Preservative"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q061",
+    "question": "Capsules in which powders are enclosed are made up of",
+    "options": [
+      "Gelatin",
+      "Rice flour",
+      "Fructose",
+      "Dextrose"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q062",
+    "question": "Which among the following come under immunological or Immunomodulatory drugs?",
+    "options": [
+      "Sera",
+      "Vaccines",
+      "Toxoids",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q063",
+    "question": "Antihypertensive drug with a tetrazole ring is",
+    "options": [
+      "Clonidine",
+      "Captopril",
+      "Valsartan",
+      "Carbapenems"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q064",
+    "question": "Class III antiarrhythmic agents are ____",
+    "options": [
+      "Na+ channel blockers",
+      "K+ channel blockers",
+      "Na+ channel openers",
+      "K+ channel openers"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q065",
+    "question": "_____ gas is most widely used in 'fire extinguishers'",
+    "options": [
+      "Oxygen",
+      "Nitric oxide",
+      "Argon",
+      "Carbon dioxide"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q066",
+    "question": "Nalidixic Acid is categorized as",
+    "options": [
+      "Antimalarials",
+      "Anti-tubercular",
+      "Antihelminthic",
+      "Urinary tract anti infective"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q067",
+    "question": "Which among the following are categorized as anti hypertensive agents?",
+    "options": [
+      "Propranolol",
+      "Benazepril hydrochloride",
+      "Enalapril",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q068",
+    "question": "Which among the following method is associated with drug distribution?",
+    "options": [
+      "Individual prescription Order Method",
+      "Unit Dose Drug Distribution Method",
+      "Drug Basket Method",
+      "All of these"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q069",
+    "question": "Pharmacists are registered under the clause (i) and section (ii) of the Pharmacy Act 1948, and their presence is legally required during the ____ of medicines according to Rule 65(15) of the Drugs and Cosmetics Rules 1945.",
+    "options": [
+      "Compounding",
+      "Dispensing and Selling",
+      "Both (a) & (b)",
+      "None of these"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q070",
+    "question": "Name the schedule under Drugs and Cosmetics Rules which describes that the word 'Pharmacy' can be displayed in front of the premises",
+    "options": [
+      "Schedule G",
+      "Schedule X",
+      "Schedule Y",
+      "Schedule N"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q071",
+    "question": "Union Government Budget deficit for a particular financial year represents",
+    "options": [
+      "Total amount of revenue receipts",
+      "Total amount of capital receipts",
+      "The amount of money that the Government has to borrow",
+      "Total amount of estimated Government expenditure"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q072",
+    "question": "Which aircraft carrier was formally inducted into the Indian Navy by Prime Minister Narendra Modi in the year 2014?",
+    "options": [
+      "INS Vikramaditya",
+      "INS Vikrant",
+      "INS Viraat",
+      "INS Chakra"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q073",
+    "question": "A recently discovered bird species named 'Himalayan Forest thrush' was found in",
+    "options": [
+      "Dehradun",
+      "Northeast India",
+      "Uttarakhand",
+      "Ladakh Region"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q074",
+    "question": "Leprosy is also known as",
+    "options": [
+      "Angina",
+      "Hansen's disease",
+      "Gaucher disease",
+      "Hodgkin disease"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q075",
+    "question": "Find the odd one out in relation world heritage sites.",
+    "options": [
+      "Rashtrapati Bhavan",
+      "Chhatrapati Shivaji Terminus",
+      "Taj Mahal",
+      "Sun Temple"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q076",
+    "question": "One side of a rectangle is 12 m and its diagonal is 13 m. Find its area.",
+    "options": [
+      "60 sq.m",
+      "55 sq.m",
+      "50 sq.m",
+      "45 sq.m"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q077",
+    "question": "Who was the coach for India in U-19 World Cup (2024) held in South Africa?",
+    "options": [
+      "Rahul Dravid",
+      "Hrishikesh Kanitkar",
+      "Sourav Ganguly",
+      "Anil Kumble"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q078",
+    "question": "Read the given statements carefully and answer the question. Statement: I. Domestic price of petrol has gone down. II. International price of crude oil has decreased. Which relation is correct?",
+    "options": [
+      "I is the cause and II is the effect.",
+      "II is the cause and I is the effect.",
+      "I and II are independent of each other.",
+      "I and II are effects of independent causes."
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q079",
+    "question": "In a map drawn to a scale of 1 cm = 18.5 km, the distance between places A and B is 22.25 cm. Find the actual distance in kilometer.",
+    "options": [
+      "411.625",
+      "425.615",
+      "412.625",
+      "405.615"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q080",
+    "question": "Find the odd one out.",
+    "options": [
+      "Silent valley",
+      "Silicon valley",
+      "Indus valley",
+      "Damodar valley"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q081",
+    "question": "Who was conferred the Arjuna Award for badminton in 2015?",
+    "options": [
+      "Kidambi Srikanth",
+      "Saina Nehwal",
+      "Chetan Anand",
+      "Rohit Sharma"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q082",
+    "question": "If 'you are john' is written as 'net let far', 'who are you' is 'let wet net', and 'john is good' is 'get far', which represents 'is'?",
+    "options": [
+      "set",
+      "get",
+      "fat",
+      "cannot be determined"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q083",
+    "question": "Till the end of 2023, India has established ____ research stations in Antarctica.",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q084",
+    "question": "A train running at 60 kmph crosses a pole in 30 seconds. What is the length of the train?",
+    "options": [
+      "250 m",
+      "750 m",
+      "500 m",
+      "450 m"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q085",
+    "question": "Jantar Mantar in Delhi was built by",
+    "options": [
+      "Jai Singh I of Jaipur",
+      "Jai Singh II of Jaipur",
+      "Ram Singh I",
+      "Bishan Singh"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q086",
+    "question": "As per the India State Forest Report 2015, ____ has the largest forest cover in terms of area.",
+    "options": [
+      "Assam",
+      "Jammu and Kashmir",
+      "Madhya Pradesh",
+      "Arunachal Pradesh"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q087",
+    "question": "9876 + 34.567 − 7 = ?",
+    "options": [
+      "23.45",
+      "234.6",
+      "2.345",
+      "2.346"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q088",
+    "question": "A's share is 2 times that of B whose share is 3 times that of C. Rs. 1800/- is to be given among them. What is B's share?",
+    "options": [
+      "Rs. 1080",
+      "Rs. 540",
+      "Rs. 180",
+      "Rs. 900"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q089",
+    "question": "Cell phone : Communication :: Cycle : ?",
+    "options": [
+      "Walking",
+      "Gym",
+      "Mechanization",
+      "Transportation"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q090",
+    "question": "Name the security force which does not fall under Union Home ministry.",
+    "options": [
+      "Sashastra Seema Bal",
+      "Border Security Force",
+      "Railway Protection Force",
+      "Indo-Tibetan Border Police Force"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q091",
+    "question": "Which one is called the dwarf planet?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Moon",
+      "Pluto"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q092",
+    "question": "Major part of biogas is",
+    "options": [
+      "Hydrogen",
+      "Nitrogen",
+      "Methane",
+      "Carbon dioxide"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q093",
+    "question": "Mac OS was introduced by",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "Apple",
+      "Micromax"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q094",
+    "question": "Find the missing (?) in the series: BDACE),GJFH,?, QSPRT ....",
+    "options": [
+      "LMRNO",
+      "NLKMO",
+      "CLNKM",
+      "KLNOM"
+    ],
+    "answer": 1,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q095",
+    "question": "Two vessels of equal volume contain milk and water in the ratio 1:3 and 2:1. If they are mixed together, what is the new ratio?",
+    "options": [
+      "11:13",
+      "13:11",
+      "9:11",
+      "11:9"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q096",
+    "question": "_____ extinguishes fire.",
+    "options": [
+      "O2",
+      "CO",
+      "CO2",
+      "NO2"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q097",
+    "question": "Four pairs of words are given. Find the odd one out.",
+    "options": [
+      "Saturn: Planet",
+      "Sun: Star",
+      "Milky Way: Constellation",
+      "Titan: Satellite"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q098",
+    "question": "After entering Bangladesh, the main branch of the Ganges is known as",
+    "options": [
+      "Hooghly river",
+      "Jamuna river",
+      "Meghna river",
+      "Padma river"
+    ],
+    "answer": 3,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q099",
+    "question": "The efficiency of work of P and Q are in the ratio 5:7. What will be the ratio of number of days taken by them to finish the work?",
+    "options": [
+      "7:5",
+      "3:4",
+      "4:3",
+      "5:7"
+    ],
+    "answer": 0,
+    "subject": "Railway Module 7"
+  },
+  {
+    "id": "q100",
+    "question": "If the posts of the President and Vice-President fall vacant, who will act as the President of India?",
+    "options": [
+      "Speaker of Lok Sabha",
+      "Prime Minister of India",
+      "Chief Justice of India",
+      "Union Council of Minister"
+    ],
+    "answer": 2,
+    "subject": "Railway Module 7"
+  }
+]
