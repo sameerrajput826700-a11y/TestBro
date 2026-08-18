@@ -31,13 +31,6 @@
     "answer": 1,
     "explanation": "Sleepers (or ties) maintain track alignment by holding the rails in place and distributing loads.",
     "subject": "Railway Module 9"
-  },
-  {
-    "id": "q005",
-    "question": "What is the maximum speed limit for freight trains in India?",
-    "options": ["50 km/h", "60 km/h", "70 km/h", "80 km/h"],
-    "answer": 2,
-    "explanation": "The maximum speed limit for freight trains in India is generally set at 70 km/h.",
-    "subject": "Railway Module 9"
   }
+  
 ]
