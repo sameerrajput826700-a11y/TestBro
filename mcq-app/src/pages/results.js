@@ -3,7 +3,7 @@
  */
 import { storage } from '../storage/storage';
 import { createHeader, createEmptyState } from '../components/common';
-import { formatTime, formatPercentage } from '../utils/helpers';
+import { downloadJSON, formatTime, formatPercentage, showNotification } from '../utils/helpers';
 import { getCurrentStudent } from '../utils/studentAuth';
 export async function createResultsPage() {
     const container = document.createElement('div');
@@ -369,6 +369,35 @@ export async function createResultsPage() {
                 document.title = originalTitle;
             }, 500);
         });
+        const retryQuestionsBtn = document.createElement('button');
+        retryQuestionsBtn.className = 'btn-secondary';
+        retryQuestionsBtn.type = 'button';
+        retryQuestionsBtn.textContent = '⬇️ Download Wrong & Unattempted';
+        retryQuestionsBtn.addEventListener('click', () => {
+            const questionsForRetry = result.questionResults
+                .filter((qResult) => qResult.selected === null || !qResult.isCorrect)
+                .map((qResult) => questionMap.get(qResult.questionId))
+                .filter((question) => Boolean(question))
+                .map(({ _internalKey, ...question }) => question);
+            if (questionsForRetry.length === 0) {
+                showNotification('There are no wrong or unattempted questions to download.', 'info');
+                return;
+            }
+            const date = new Date();
+            const dateStamp = [date.getFullYear(), date.getMonth() + 1, date.getDate()]
+                .map((part) => String(part).padStart(2, '0'))
+                .join('-');
+            const moduleNames = Array.from(new Set(questionsForRetry.map((question) => question.subject).filter(Boolean)));
+            const moduleName = moduleNames.length === 1 ? moduleNames[0] : result.testName;
+            const retrySubjectSuffix = `_RE_${dateStamp}`;
+            const questionsWithRetrySubject = questionsForRetry.map((question) => ({
+                ...question,
+                subject: `${question.subject || moduleName}${retrySubjectSuffix}`,
+            }));
+            const safeModuleName = moduleName.replace(/[^a-z0-9]+/gi, '_').replace(/^_+|_+$/g, '');
+            downloadJSON(questionsWithRetrySubject, `${safeModuleName || 'Test'}${retrySubjectSuffix}.json`);
+            showNotification(`Downloaded ${questionsForRetry.length} questions for retry.`, 'success');
+        });
         const homeBtn = document.createElement('a');
         homeBtn.href = '/dashboard';
         homeBtn.setAttribute('data-link', '');
@@ -380,6 +409,7 @@ export async function createResultsPage() {
         historyBtn.className = 'btn-secondary';
         historyBtn.textContent = '📋 History';
         actions.appendChild(exportBtn);
+        actions.appendChild(retryQuestionsBtn);
         actions.appendChild(homeBtn);
         actions.appendChild(historyBtn);
         main.appendChild(actions);
